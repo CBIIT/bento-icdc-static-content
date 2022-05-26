@@ -46,8 +46,8 @@
   callToActionButtonText: 'EXPLORE'
   callToActionLink: '/explore'
   titleOne:
-    test: 'test'
-    test: 'test'
+    testOne: 'test'
+    testTwo: 'test'
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
