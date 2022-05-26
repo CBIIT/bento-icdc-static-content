@@ -1,3 +1,4 @@
+---
 -
   callToActionTitle: 'Integrated Canine Data Commons'
   callToActionDescription: 'Exploring analyzing and understanding the biological relationships between human and canine cancers.'
@@ -31,5 +32,3 @@
       callToActionText: 'Learn more about various ICDC Program'
     -
       callToActionLink: '/programs'
-    -
--
