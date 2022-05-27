@@ -110,7 +110,7 @@
       icon: spotLight
       content:
         callToActionTitle: 'Spotlight: New Canine Urothelial Carcinoma study now available'
-        callToActionDescription: 'Featured in EACR\'s  Top 10 Cancer Research  publications.'
+        callToActionDescription: "Featured in EACR's  Top 10 Cancer Research  publications."
         callToActionButtonText: 'VIEW THE STUDY'
         callToActionLink: '/study/UBC01'
         image: spotlightStudy
