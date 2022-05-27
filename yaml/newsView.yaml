@@ -92,6 +92,28 @@
         callToActionButtonText: 'Data Model Explorer'
         callToActionLink: '/icdc-data-model'
         image: 'placeholder image'
+    -
+      index: 2
+      label: 'Studies'
+      value: 'studies'
+      icon: 'studyActive'
+      content:
+        callToActionTitle: 'ICDC Studies'
+        callToActionDescription: 'Browse the ICDC Studies with detailed overviews sample profiles associated publications and additional information.'
+        callToActionButtonText: 'STUDIES LISTING'
+        callToActionLink: '/studies'
+        image: 'studies'
+    -
+      index: 3
+      label: 'ICDC Spotlight'
+      value: 'icdc'
+      icon: 'spotLight'
+      content:
+        callToActionTitle: 'Spotlight: New Canine Urothelial Carcinoma study now available'
+        callToActionDescription: "Featured in EACR's  Top 10 Cancer Research  publications."
+        callToActionButtonText: 'VIEW THE STUDY'
+        callToActionLink: '/study/UBC01'
+        image: 'spotlightStudy'
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
