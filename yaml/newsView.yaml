@@ -137,12 +137,12 @@
       callToActionText: 'READ MORE'
       callToActionLink: '/purpose'
     -
-      alt: 'ICDC News',
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/landingPage/ICDC_News.png',
-      titleText: 'ICDC News',
-      descriptionText: 'Updates and announcements',
-      callToActionText: 'EXPLORE',
-      callToActionLink: '/news',
+      alt: 'ICDC News'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/landingPage/ICDC_News.png'
+      titleText: 'ICDC News'
+      descriptionText: 'Updates and announcements'
+      callToActionText: 'EXPLORE'
+      callToActionLink: '/news'
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
