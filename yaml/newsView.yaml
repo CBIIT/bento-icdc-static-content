@@ -114,35 +114,6 @@
         callToActionButtonText: 'VIEW THE STUDY'
         callToActionLink: '/study/UBC01'
         image: 'spotlightStudy'
-  widgets:
-    -
-      alt: 'ICDC submit'
-      img: 'submitData'
-      titleText: 'Submit Data'
-      descriptionText: 'Interested in contributing data to ICDC?'
-      callToActionText: 'READ MORE'
-      callToActionLink: '/submit'
-    -
-      alt: 'ICDC program'
-      img: 'Programs'
-      titleText: 'Programs'
-      descriptionText: 'Discover the programs in ICDC'
-      callToActionText: 'Learn more about various ICDC Program'
-      callToActionLink: '/programs'
-    -
-      alt: 'ICDC about'
-      img: 'aboutICDC'
-      titleText: 'About ICDC'
-      descriptionText: 'Comparative oncology research and more'
-      callToActionText: 'READ MORE'
-      callToActionLink: '/purpose'
-    -
-      alt: 'ICDC News'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/landingPage/ICDC_News.png'
-      titleText: 'ICDC News'
-      descriptionText: 'Updates and announcements'
-      callToActionText: 'EXPLORE'
-      callToActionLink: '/news'
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
