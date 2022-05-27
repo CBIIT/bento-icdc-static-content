@@ -49,7 +49,7 @@
     alt: 'ICDC about'
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_About.png'
     titleText: 'About the Integrated Canine Data Commons (ICDC)'
-    descriptionText: 'NCI\'s Division of Cancer Treatment and Diagnosis (DCTD) designated the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC) a cloud-based repository of canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects.'
+    descriptionText: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) designated the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC) a cloud-based repository of canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects."
     callToActionText: 'READ MORE'
     callToActionLink: '/purpose'
   content: 
