@@ -52,6 +52,34 @@
     descriptionText: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) designated the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC) a cloud-based repository of canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects."
     callToActionText: 'READ MORE'
     callToActionLink: '/purpose'
+  titleTwo:
+    alt: 'ICDC program'
+    img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Program.png'
+    titleText: 'Programs'
+    descriptionText: 'Discover the programs in ICDC'
+    callToActionText: 'Learn more about various ICDC Program'
+    callToActionLink: '/programs'
+  titleThree:
+    alt: 'ICDC studies'
+    img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Studies.png'
+    titleText: 'Studies'
+    descriptionText: 'Browse the studies in ICDC'
+    callToActionText: 'EXPLORE'
+    callToActionLink: '/studies'
+  titleFour:
+    alt: 'ICDC submit'
+    img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Submit.png'
+    titleText: 'Submit Data'
+    descriptionText: ' Interested in contributing data to ICDC?'
+    callToActionText: 'READ MORE'
+    callToActionLink: '/submit'
+  titleFive: 
+    alt: 'ICDC cases'
+    img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Cases.png'
+    titleText: 'Cases'
+    descriptionText: 'Search across cases and build cohorts from the programs and studies in ICDC. The data files from these cohorts can then be analyzed in the Cloud Resources.'
+    callToActionText: 'EXPLORE'
+    callToActionLink: '/explore'
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
