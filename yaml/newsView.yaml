@@ -92,6 +92,17 @@
         callToActionButtonText: 'Data Model Explorer'
         callToActionLink: '/icdc-data-model'
         image: 'placeholder image'
+    -
+      index: 1
+      label: 'Data Model Explorer'
+      value: 'dictionary'
+      icon: datadictionaryIcon
+      content:
+        callToActionTitle: 'Delve\ninto the\n Data\n Model'
+        callToActionDescription: 'The ICDC data model provides a\n visual representation of how all the\n constituent nodes and values are arranged relative to each other.'
+        callToActionButtonText: 'Data Model Explorer'
+        callToActionLink: '/icdc-data-model'
+        image: 'placeholder image'
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
