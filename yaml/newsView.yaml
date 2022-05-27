@@ -85,7 +85,7 @@
       index: 1
       label: 'Data Model Explorer'
       value: 'dictionary'
-      icon: datadictionaryIcon
+      icon: 'datadictionaryIcon'
       content:
         callToActionTitle: 'Delve into the Data Model'
         callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
