@@ -114,6 +114,20 @@
         callToActionButtonText: 'VIEW THE STUDY'
         callToActionLink: '/study/UBC01'
         image: 'spotlightStudy'
+        template: 'largeIcon'
+        twitter:
+          tweetId: '1493638757001711620'
+        youtube:
+          url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+        imageWithCaption:
+          img: DogAtVet
+          caption: 'Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+        noCaptionImage:
+          img: DogAtVet
+        smallIcon:
+          img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
+        largeIcon:
+          img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
   widgets:
     -
       alt: 'ICDC submit'
