@@ -82,6 +82,17 @@
     callToActionLink: '/explore'
   tabs:
     -
+      index: 0
+      label: 'Explore ICDC'
+      value: 'explore'
+      icon: 'dog icon'
+      content:
+        callToActionTitle: 'Integrated Canine Data Commons'
+        callToActionDescription: 'Exploring, analyzing, and\n understanding the biological\n relationships between human\n and canine cancers.'
+        callToActionButtonText: 'EXPLORE ICDC'
+        callToActionLink: '/explore'
+        image: ''
+    -
       index: 1
       label: 'Data Model Explorer'
       value: 'dictionary'
