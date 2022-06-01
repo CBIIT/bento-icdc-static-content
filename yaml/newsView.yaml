@@ -114,7 +114,7 @@
         callToActionButtonText: 'VIEW THE STUDY'
         callToActionLink: '/study/UBC01'
         image: 'spotlightStudy'
-        template: 'largeIcon'
+        template: 'twitter'
         twitter:
           tweetId: '1493638757001711620'
         youtube:
