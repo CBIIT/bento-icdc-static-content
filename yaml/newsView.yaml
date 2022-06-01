@@ -85,7 +85,7 @@
       index: 0
       label: 'Explore ICDC'
       value: 'explore'
-      icon: 'dog icon'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Explore.Active.png?raw=true'
       content:
         callToActionTitle: 'Integrated Canine Data Commons'
         callToActionDescription: 'Exploring, analyzing, and\n understanding the biological\n relationships between human\n and canine cancers.'
@@ -96,35 +96,35 @@
       index: 1
       label: 'Data Model Explorer'
       value: 'dictionary'
-      icon: 'datadictionaryIcon'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.DataDictionary.Open.png?raw=true'
       content:
         callToActionTitle: 'Delve into the Data Model'
         callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
         callToActionButtonText: 'Data Model Explorer'
         callToActionLink: '/icdc-data-model'
-        image: 'placeholder image'
+        image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
     -
       index: 2
       label: 'Studies'
       value: 'studies'
-      icon: 'studyActive'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Studies.Active.png?raw=true'
       content:
         callToActionTitle: 'ICDC Studies'
         callToActionDescription: 'Browse the ICDC Studies with detailed overviews sample profiles associated publications and additional information.'
         callToActionButtonText: 'STUDIES LISTING'
         callToActionLink: '/studies'
-        image: 'studies'
+        image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/studies.png?raw=true'
     -
       index: 3
       label: 'ICDC Spotlight'
       value: 'icdc'
-      icon: 'spotLight'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Spotlight.Active.png?raw=true'
       content:
         callToActionTitle: 'Spotlight: New Canine Urothelial Carcinoma study now available'
         callToActionDescription: "Featured in EACR's  Top 10 Cancer Research  publications."
         callToActionButtonText: 'VIEW THE STUDY'
         callToActionLink: '/study/UBC01'
-        image: 'spotlightStudy'
+        image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
         template: 'imageWithCaption'
         twitter:
           tweetId: '1493638757001711620'
