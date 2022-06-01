@@ -131,14 +131,18 @@
         youtube:
           url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
         imageWithCaption:
-          img: DogAtVet
+          img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
+          alt: 'Dog at vet'
           caption: 'Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
         noCaptionImage:
-          img: DogAtVet
+          img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
+          alt: 'Dog at vet'
         smallIcon:
           img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
+          alt: 'iocn alt'
         largeIcon:
           img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
+          alt: 'icon alt'
   widgets:
     -
       alt: 'ICDC submit'
