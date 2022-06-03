@@ -8,7 +8,7 @@ ICDC-STAGE | stage 🔒
 ICDC-QA | qa 🔒
 ICDC-DEV | develop 🔒
 
-> ❗ NOTE: Branch are protected. No direct commit can be made on any of thses branches.
+> ❗ NOTE: Branches are protected. No direct commit can be made on any of thses branches.
 
 Steps to contribute in this repositry: 
 1. Create seperate branch based on "develop" branch, let's call it "xyz". (Don't forget to pull develop to keep it upto date before making new branch)
