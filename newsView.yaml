@@ -5,6 +5,30 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/EACR_top_ten.png'
   availableSoonImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/Smart-Dog.png'
   sourceLink1: ''
+  youtube:
+    main:
+      vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+      label: 'Unleashing Comparative Oncology'
+      alt: ''
+    alt1:
+      vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4',
+      label: 'Unleashing Comparative Oncology',
+      alt: ''
+    alt2:
+      vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4',
+      label: 'Unleashing Comparative Oncology',
+      alt: ''
+  twitter:
+    tweet:
+      tweetId: '1493638757001711620'
+    timeline:
+      sourceType: 'profile'
+      screenName: 'ncidatasci'
+  images:
+    -
+      img: ''
+      label: ''
+    -
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
