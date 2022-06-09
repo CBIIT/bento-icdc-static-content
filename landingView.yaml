@@ -85,7 +85,7 @@
         callToActionButtonText: 'VIEW THE STUDY'
         callToActionLink: '/study/UBC01'
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
-        template: 'imageWithCaption'
+        template: 'youtube'
         twitter:
           tweetId: '1493638757001711620'
         youtube:
