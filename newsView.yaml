@@ -1,41 +1,138 @@
----
-- 
-  page: /news
-  title: "News"
-  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/EACR_top_ten.png'
-  availableSoonImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/Smart-Dog.png'
-  sourceLink1: ''
-  content: 
-    - 
-      paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "By exercising the Licensed Rights You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License“). To the extent this Public License may be interpreted as a contract You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions."
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "$$#Citing ICDC in Publications:#$$"
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "To cite the ICDC as a resource reference the data as being available via the NCI’s Integrated Canine Data Commons (ICDC) at $$[https://caninecommons.cancer.gov ](https://caninecommons.cancer.gov )$$ "
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "$$#Citing Individual Studies:#$$"
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "ICDC uses human readable identifiers for representing studies."
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "To cite an individual study cite the native ICDC accession ID as displayed within the User Interface prefixed by “icdc:” to create a compact identifier that can be resolved via $$[identifiers.org](https://identifiers.org/)$$ (e.g. icdc:000003) and/or cite the URL to the study (e.g. $$[https://caninecommons.cancer.gov/#/study/000003](https://caninecommons.cancer.gov/#/study/000003)$$) where the URL ends with the native ICDC accession ID."
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "$$#Intellectual Property policy statement:#$$"
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "The ICDC discourages use of the data to acquire ownership interest in pre-competitive technologies necessary for the development of the field (“research tools”).  The ICDC places no restrictions on the use of data to develop downstream technologies that may lead to discoveries that address public needs especially therapeutics.  For further information about the ICDC Intellectual Property policy please contact us at $$@ICDCHelpDesk@mail.nih.gov@$$"
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "$$#Embargo Period for datasets:#$$"
-      label: "Lorem Ipsum"
-    - 
-      paragraph: "Certain datasets made available in ICDC will have an embargo period as an associated publication is in the process of being accepted and or published.  An embargo is the release of limited metadata on the ICDC portal until an approval is obtained from the respective data submitter. There are several visual icons intended to flag studies that have an active embargo to inform users that the data will be released to ICDC in the near future."
-      label: "Lorem Ipsum"
+page: /news
+title: News
+primaryContentImage: >-
+  https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/EACR_top_ten.png
+availableSoonImage: >-
+  https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/Smart-Dog.png
+sourceLink1: ''
+tile1:
+  heading: Updates
+  subHeading: Announcements
+tile2:
+  heading: Twitter
+  subHeading1: Featured tweet
+  subHeading2: Follow us on Twitter
+tile3:
+  heading: Images
+tile4:
+  heading: Videos
+  subHeading1: Featured video
+  subHeading2: Other videos
+youtube:
+  main:
+    vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+    label: Unleashing Comparative Oncology
+    alt: ''
+  others:
+    - vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+      label: Unleashing Comparative Oncology
+      alt: ''
+    - vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+      label: Unleashing Comparative Oncology
+      alt: ''
+twitter:
+  tweet:
+    tweetId: '1493638757001711620'
+  timeline:
+    sourceType: profile
+    screenName: ncidatasci
+images:
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Bosco.jpg?raw=true
+    label: Bosco
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/DogAtVet.jpg?raw=true
+    label: Dog at vet
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Emmie.JPG?raw=true
+    label: Emmie
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Freddie.jpg?raw=true
+    label: Freddie
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Gertie.jpeg?raw=true
+    label: Gertie
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Jelly-Bean.jpg?raw=true
+    label: JellyBean
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Krish.jpg?raw=true
+    label: Krish
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Louie-Teddy.JPG?raw=true
+    label: Louie and Teddy
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
+    label: Samantha
+content:
+  - paragraph: >-
+      Data made available thru the ICDC is for research purposes only. ICDC Data
+      received by the requestor is considered Licensed Material as defined
+      below. ICDC data submission and data use is governed by $$[Creative
+      Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$
+      licensing terms.
+    blurb: Summary of paragraph
+    label: Lorem Ipsum
+  - paragraph: >-
+      By exercising the Licensed Rights You accept and agree to be bound by the
+      terms and conditions of this Creative Commons Attribution 4.0
+      International Public License (“Public License“). To the extent this Public
+      License may be interpreted as a contract You are granted the Licensed
+      Rights in consideration of Your acceptance of these terms and conditions
+      and the Licensor grants You such rights in consideration of benefits the
+      Licensor receives from making the Licensed Material available under these
+      terms and conditions.
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: '$$#Citing ICDC in Publications:#$$'
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: >-
+      To cite the ICDC as a resource reference the data as being available via
+      the NCI’s Integrated Canine Data Commons (ICDC) at
+      $$[https://caninecommons.cancer.gov ](https://caninecommons.cancer.gov
+      )$$ 
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: '$$#Citing Individual Studies:#$$'
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: ICDC uses human readable identifiers for representing studies.
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: >-
+      To cite an individual study cite the native ICDC accession ID as displayed
+      within the User Interface prefixed by “icdc:” to create a compact
+      identifier that can be resolved via
+      $$[identifiers.org](https://identifiers.org/)$$ (e.g. icdc:000003) and/or
+      cite the URL to the study (e.g.
+      $$[https://caninecommons.cancer.gov/#/study/000003](https://caninecommons.cancer.gov/#/study/000003)$$)
+      where the URL ends with the native ICDC accession ID.
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: '$$#Intellectual Property policy statement:#$$'
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: >-
+      The ICDC discourages use of the data to acquire ownership interest in
+      pre-competitive technologies necessary for the development of the field
+      (“research tools”).  The ICDC places no restrictions on the use of data to
+      develop downstream technologies that may lead to discoveries that address
+      public needs especially therapeutics.  For further information about the
+      ICDC Intellectual Property policy please contact us at
+      $$@ICDCHelpDesk@mail.nih.gov@$$
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: '$$#Embargo Period for datasets:#$$'
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
+  - paragraph: >-
+      Certain datasets made available in ICDC will have an embargo period as an
+      associated publication is in the process of being accepted and or
+      published.  An embargo is the release of limited metadata on the ICDC
+      portal until an approval is obtained from the respective data submitter.
+      There are several visual icons intended to flag studies that have an
+      active embargo to inform users that the data will be released to ICDC in
+      the near future.
+    label: Lorem Ipsum
+    blurb: Summary of paragraph
