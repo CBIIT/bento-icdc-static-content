@@ -66,19 +66,16 @@ images:
     label: Samantha
 content:
   - paragraph: >-
-      Data made available thru the ICDC is for research purposes only. ICDC Data
-      received by the requestor is considered Licensed Material as defined
-      below. ICDC data submission and data use is governed by $$[Creative
-      Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$
-      licensing terms.
+      Data made available through the ICDC is for research purposes only. ICDC data submission and data use is governed by the Creative
+      Commons licensing terms, CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
     blurb: ICDC Data Use Guidelines
-    label: ICDC levarages CC-BY 4.0
+    label: ICDC leverages CC-BY 4.0 licensing terms
   - paragraph: >-
       The ICDC team has been hard at work and is targeting July 7, 2022 for the next quarterly software release.
       This release will add gene annotations for JBrowse, a Data Availability Landscape view, and the ICDC News page.
     label: Software Development
     blurb: Upcoming Software Release
   - paragraph: >-
-      Submit a photo of your dog to featured on the ICDC News page image gallery and join the ICDC pack in the battle against cancer.
+      Submit a photo of your dog to be featured in the ICDC image gallery and join the ICDC pack in the battle against cancer.
     blurb: Submit a photo of your 4-legged friend to the ICDC
     label: Join the ICDC pack
