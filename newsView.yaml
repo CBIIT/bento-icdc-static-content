@@ -23,13 +23,16 @@ youtube:
     vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
     label: Unleashing Comparative Oncology
     alt: ''
+    description: 'Io sono una descrizione'
   others:
     - vid: 'https://www.youtube.com/watch?v=WeCTiGkVNlk'
       label: Urinary Bladder Cancer in Dogs
       alt: ''
+      description: 'Io sono una descrizione'
     - vid: 'https://www.youtube.com/watch?v=tk1nEX2gnqk'
       label: The Cancer Research Data Commons (CRDC)
       alt: ''
+      description: 'Io sono una descrizione'
 twitter:
   tweet:
     tweetId: '1493638757001711620'
