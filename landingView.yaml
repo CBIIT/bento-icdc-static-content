@@ -9,7 +9,7 @@
     alt: 'ICDC about'
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_About.png'
     titleText: 'About the Integrated Canine Data Commons (ICDC)'
-    descriptionText: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) designated the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC) a cloud-based repository of canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects."
+    descriptionText: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) designated the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC), a cloud-based repository of canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects."
     callToActionText: 'READ MORE'
     callToActionLink: '/purpose'
   tile2:
@@ -17,7 +17,7 @@
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Program.png'
     titleText: 'Programs'
     descriptionText: 'Discover the programs in ICDC'
-    callToActionText: 'Learn more about various ICDC Program'
+    callToActionText: 'Learn more about various ICDC Programs'
     callToActionLink: '/programs'
   tile3:
     alt: 'ICDC studies'
@@ -37,7 +37,7 @@
     alt: 'ICDC cases'
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Cases.png'
     titleText: 'Cases'
-    descriptionText: 'Search across cases and build cohorts from the programs and studies in ICDC. The data files from these cohorts can then be analyzed in the Cloud Resources.'
+    descriptionText: 'Search across cases and build cohorts from the programs and studies in the ICDC. The data files from these cohorts can then be analyzed in the Cloud Resources.'
     callToActionText: 'EXPLORE'
     callToActionLink: '/explore'
   tabs:
@@ -48,8 +48,8 @@
       icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Explore.Active.png?raw=true'
       content:
         callToActionTitle: 'Integrated Canine Data Commons'
-        callToActionDescription: 'Exploring, analyzing, and\n understanding the biological\n relationships between human\n and canine cancers.'
-        callToActionButtonText: 'EXPLORE ICDC'
+        callToActionDescription: 'Exploring, analyzing, and understanding the biological relationships between human and canine cancers.'
+        callToActionButtonText: 'EXPLORE the ICDC'
         callToActionLink: '/explore'
         image: ''
     -
@@ -60,7 +60,7 @@
       content:
         callToActionTitle: 'Delve into the Data Model'
         callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
-        callToActionButtonText: 'Data Model Explorer'
+        callToActionButtonText: 'DATA MODEL EXPLORER'
         callToActionLink: '/icdc-data-model'
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
     -
@@ -70,7 +70,7 @@
       icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Studies.Active.png?raw=true'
       content:
         callToActionTitle: 'ICDC Studies'
-        callToActionDescription: 'Browse the ICDC Studies with detailed overviews sample profiles associated publications and additional information.'
+        callToActionDescription: 'Browse the ICDC Studies with detailed overviews, sample profiles associated with publications, and additional information.'
         callToActionButtonText: 'STUDIES LISTING'
         callToActionLink: '/studies'
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/studies.png?raw=true'
@@ -91,15 +91,15 @@
         youtube:
           url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
         imageWithCaption:
-          img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
-          alt: 'Dog at vet'
-          caption: 'Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+          img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/aboutPages/EACR_top_ten.png?raw=true'
+          alt: 'UBC01 featured in EACR'
+          caption: 'Dr. Debbie Knapp and team continue to fight against canine urothelial carcinomas .'
         noCaptionImage:
           img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
           alt: 'Dog at vet'
         smallIcon:
           img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
-          alt: 'iocn alt'
+          alt: 'icon alt'
         largeIcon:
           img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
           alt: 'icon alt'
@@ -112,14 +112,14 @@
       callToActionText: 'READ MORE'
       callToActionLink: '/submit'
     -
-      alt: 'ICDC program'
+      alt: 'ICDC Programs'
       img: 'Programs'
       titleText: 'Programs'
-      descriptionText: 'Discover the programs in ICDC'
-      callToActionText: 'Learn more about various ICDC Program'
+      descriptionText: 'Discover the programs in the ICDC'
+      callToActionText: 'Learn more about various ICDC Programs'
       callToActionLink: '/programs'
     -
-      alt: 'ICDC about'
+      alt: 'About ICDC'
       img: 'aboutICDC'
       titleText: 'About ICDC'
       descriptionText: 'Comparative oncology research and more'
@@ -140,13 +140,13 @@
       paragraph: "By exercising the Licensed Rights You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License“). To the extent this Public License may be interpreted as a contract You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions."
       label: "Lorem Ipsum"
     - 
-      paragraph: "$$#Citing ICDC in Publications:#$$"
+      paragraph: "Citing ICDC in Publications:"
       label: "Lorem Ipsum"
     - 
       paragraph: "To cite the ICDC as a resource reference the data as being available via the NCI’s Integrated Canine Data Commons (ICDC) at $$[https://caninecommons.cancer.gov ](https://caninecommons.cancer.gov )$$ "
       label: "Lorem Ipsum"
     - 
-      paragraph: "$$#Citing Individual Studies:#$$"
+      paragraph: "Citing Individual Studies:"
       label: "Lorem Ipsum"
     - 
       paragraph: "ICDC uses human readable identifiers for representing studies."
@@ -155,7 +155,7 @@
       paragraph: "To cite an individual study cite the native ICDC accession ID as displayed within the User Interface prefixed by “icdc:” to create a compact identifier that can be resolved via $$[identifiers.org](https://identifiers.org/)$$ (e.g. icdc:000003) and/or cite the URL to the study (e.g. $$[https://caninecommons.cancer.gov/#/study/000003](https://caninecommons.cancer.gov/#/study/000003)$$) where the URL ends with the native ICDC accession ID."
       label: "Lorem Ipsum"
     - 
-      paragraph: "$$#Intellectual Property policy statement:#$$"
+      paragraph: "Intellectual Property policy statement:"
       label: "Lorem Ipsum"
     - 
       paragraph: "The ICDC discourages use of the data to acquire ownership interest in pre-competitive technologies necessary for the development of the field (“research tools”).  The ICDC places no restrictions on the use of data to develop downstream technologies that may lead to discoveries that address public needs especially therapeutics.  For further information about the ICDC Intellectual Property policy please contact us at $$@ICDCHelpDesk@mail.nih.gov@$$"
