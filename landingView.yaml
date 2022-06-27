@@ -91,7 +91,7 @@
         youtube:
           url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
         imageWithCaption:
-          img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/aboutPages/EACR_top_ten.png?raw=true'
+          img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/EACR_wide_image.png?raw=true'
           alt: 'UBC01 featured in EACR'
           caption: 'Dr. Debbie Knapp and team continue to fight against canine urothelial carcinomas .'
         noCaptionImage:
