@@ -74,7 +74,8 @@ content:
     blurb: ICDC Data Use Guidelines
     label: ICDC leverages CC-BY 4.0 licensing terms
   - paragraph: >-
-      The ICDC team released v.3.29.4 on July 11, 2022. This release adds gene annotations for JBrowse, a Data Availability Landscape view, and the ICDC News page.
+      The ICDC team released v.3.29.4 on July 11, 2022. This release adds gene annotations for JBrowse, a Data Availability Landscape view, facet-based filtering of the Data Model Explorer,
+       and the ICDC News page.
     label: Software Development
     blurb: Software Release Update
   - paragraph: >-
