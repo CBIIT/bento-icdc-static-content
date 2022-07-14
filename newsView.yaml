@@ -43,30 +43,39 @@ images:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Bosco.jpg?raw=true
     label: Bosco
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/DogAtVet.jpg?raw=true
     label: Dog at vet
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Emmie.JPG?raw=true
     label: Emmie
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Freddie.jpg?raw=true
     label: Freddie
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Gertie.jpeg?raw=true
     label: Gertie
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Jelly-Bean.jpg?raw=true
     label: JellyBean
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Krish.jpg?raw=true
     label: Krish
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Louie-Teddy.JPG?raw=true
     label: Louie and Teddy
+    caption: Io sono una descrizione
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
     label: Samantha
+    caption: Io sono una descrizione
 content:
   - paragraph: >-
       Data made available through the ICDC is for research purposes only. ICDC data submission and data use is governed by the Creative
