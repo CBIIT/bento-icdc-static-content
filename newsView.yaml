@@ -80,7 +80,7 @@ content:
   - paragraph: >-
       Data made available through the ICDC is for research purposes only. ICDC data submission and data use is governed by the Creative
       Commons licensing terms, CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
-    blurb: This is a test change
+    blurb: ICDC Data Use Guidelines
     label: ICDC leverages CC-BY 4.0 licensing terms
   - paragraph: >-
       The ICDC team released v.3.29.4 on July 11, 2022. This release adds gene annotations for JBrowse, a Data Availability Landscape view, facet-based filtering of the Data Model Explorer,
