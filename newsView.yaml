@@ -13,7 +13,7 @@ tile2:
   subHeading1: Featured tweet
   subHeading2: Follow us on Twitter
 tile3:
-  heading: Images
+  heading: Image Gallery
 tile4:
   heading: Videos
   subHeading1: Featured Video
@@ -23,16 +23,16 @@ youtube:
     vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
     label: Unleashing Comparative Oncology
     alt: ''
-    description: 'Io sono una descrizione'
+    description: ''
   others:
     - vid: 'https://www.youtube.com/watch?v=WeCTiGkVNlk'
       label: Urinary Bladder Cancer in Dogs
       alt: ''
-      description: 'Io sono una descrizione'
+      description: ''
     - vid: 'https://www.youtube.com/watch?v=tk1nEX2gnqk'
       label: The Cancer Research Data Commons (CRDC)
       alt: ''
-      description: 'Io sono una descrizione'
+      description: ''
 twitter:
   tweet:
     tweetId: '1493638757001711620'
@@ -43,30 +43,39 @@ images:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Bosco.jpg?raw=true
     label: Bosco
+    caption: 
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/DogAtVet.jpg?raw=true
     label: Dog at vet
+    caption:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Emmie.JPG?raw=true
     label: Emmie
+    caption:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Freddie.jpg?raw=true
     label: Freddie
+    caption:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Gertie.jpeg?raw=true
     label: Gertie
+    caption:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Jelly-Bean.jpg?raw=true
     label: JellyBean
+    caption:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Krish.jpg?raw=true
     label: Krish
+    caption:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Louie-Teddy.JPG?raw=true
     label: Louie and Teddy
+    caption:
   - img: >-
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
     label: Samantha
+    caption:
 content:
   - paragraph: >-
       Data made available through the ICDC is for research purposes only. ICDC data submission and data use is governed by the Creative
@@ -74,10 +83,10 @@ content:
     blurb: ICDC Data Use Guidelines
     label: ICDC leverages CC-BY 4.0 licensing terms
   - paragraph: >-
-      The ICDC team has been hard at work and is targeting July 7, 2022 for the next quarterly software release.
-      This release will add gene annotations for JBrowse, a Data Availability Landscape view, and the ICDC News page.
+      The ICDC team released v.3.29.4 on July 11, 2022. This release adds gene annotations for JBrowse, a Data Availability Landscape view, facet-based filtering of the Data Model Explorer,
+       and the ICDC News page.
     label: Software Development
-    blurb: Upcoming Software Release
+    blurb: Software Release Update
   - paragraph: >-
       Submit a photo of your dog to be featured in the ICDC image gallery and join the ICDC pack in the battle against cancer.
     blurb: Submit a photo of your 4-legged friend to the ICDC
