@@ -10,8 +10,7 @@ tile1:
   subHeading: Announcements
 tile2:
   heading: Twitter
-  subHeading1: Featured tweet
-  subHeading2: Follow us on Twitter
+  subHeading: Featured Tweet
 tile3:
   heading: Image Gallery
 tile4:
@@ -83,8 +82,9 @@ content:
     blurb: ICDC Data Use Guidelines
     label: ICDC leverages CC-BY 4.0 licensing terms
   - paragraph: >-
-      The ICDC team released v.3.29.4 on July 11, 2022. This release adds gene annotations for JBrowse, a Data Availability Landscape view, facet-based filtering of the Data Model Explorer,
-       and the ICDC News page.
+      The ICDC team released v.3.39.4 on October 25, 2022. This release expands the functionality of JBrowse by enabling analysis across
+      multiple sequence files, improves system performance via integration of Elasticsearch, and enables identification of data model properties actively displayed in the user interface. Addtionally, there are several upgrades to the Data Model Explorer, including
+      the support for download of controlled vocabularies in machine-readable TSV and JSON formats, the support for download of a template for file transfer manifests, and the support for download of node pdfs in landscape orientation.  
     label: Software Development
     blurb: Software Release Update
   - paragraph: >-
