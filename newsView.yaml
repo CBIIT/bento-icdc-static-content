@@ -10,7 +10,7 @@ tile1:
   subHeading: Announcements
 tile2:
   heading: Twitter
-  subHeading: Featured Tweet
+  subHeading1: Featured Tweet
 tile3:
   heading: Image Gallery
 tile4:
@@ -77,11 +77,6 @@ images:
     caption:
 content:
   - paragraph: >-
-      Data made available through the ICDC is for research purposes only. ICDC data submission and data use is governed by the Creative
-      Commons licensing terms, CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
-    blurb: ICDC Data Use Guidelines
-    label: ICDC leverages CC-BY 4.0 licensing terms
-  - paragraph: >-
       The ICDC team released v.3.39.4 on October 25, 2022. This release expands the functionality of JBrowse by enabling analysis across
       multiple sequence files, improves system performance via integration of Elasticsearch, and enables identification of data model properties actively displayed in the user interface. Addtionally, there are several upgrades to the Data Model Explorer, including
       the support for download of controlled vocabularies in machine-readable TSV and JSON formats, the support for download of a template for file transfer manifests, and the support for download of node pdfs in landscape orientation.  
@@ -91,3 +86,8 @@ content:
       Submit a photo of your dog to be featured in the ICDC image gallery and join the ICDC pack in the battle against cancer.
     blurb: Submit a photo of your 4-legged friend to the ICDC
     label: Join the ICDC pack
+  - paragraph: >-
+      Data made available through the ICDC is for research purposes only. ICDC data submission and data use is governed by the Creative
+      Commons licensing terms, CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+    blurb: ICDC Data Use Guidelines
+    label: ICDC leverages CC-BY 4.0 licensing terms
