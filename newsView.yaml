@@ -19,8 +19,8 @@ tile4:
   subHeading2: Other Videos
 youtube:
   main:
-    vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
-    label: Unleashing Comparative Oncology
+    vid: ' https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
+    label: 60 Minutes
     alt: ''
     description: ''
   others:
@@ -30,6 +30,10 @@ youtube:
       description: ''
     - vid: 'https://www.youtube.com/watch?v=tk1nEX2gnqk'
       label: The Cancer Research Data Commons (CRDC)
+      alt: ''
+      description: ''
+    - vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+      label: Unleashing Comparative Oncology
       alt: ''
       description: ''
 twitter:
