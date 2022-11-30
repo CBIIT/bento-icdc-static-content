@@ -19,15 +19,11 @@ tile4:
   subHeading2: Other Videos
 youtube:
   main:
-    vid: 'https://www.cbsnews.com/embed/video/?v=e36e3e23cd8e942eaec761d6bc5b80631669666259#xVj7b9vIEf5XCALRD5Up8U1KB6GVLbt[…]Ze3PShZ1H371sB%2FZm2%2B3%2FwU%3D'
-    label: 60 Minutes
-    alt: ''
-    description: ''
-  others:
-    - vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+      vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
       label: Unleashing Comparative Oncology
       alt: ''
       description: ''
+  others:
     - vid: 'https://www.youtube.com/watch?v=WeCTiGkVNlk'
       label: Urinary Bladder Cancer in Dogs
       alt: ''
