@@ -51,6 +51,7 @@
         callToActionDescription: 'Exploring, analyzing, and understanding the biological relationships between human and canine cancers.'
         callToActionButtonText: 'EXPLORE the ICDC'
         callToActionLink: '/explore'
+        externalLink: false
         image: ''
     -
       index: 1
@@ -62,6 +63,7 @@
         callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
         callToActionButtonText: 'DATA MODEL EXPLORER'
         callToActionLink: '/icdc-data-model'
+        externalLink: false
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
     -
       index: 2
@@ -73,6 +75,7 @@
         callToActionDescription: 'Browse the ICDC Studies with detailed overviews, sample profiles associated with publications, and additional information.'
         callToActionButtonText: 'STUDIES LISTING'
         callToActionLink: '/studies'
+        externalLink: false
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/studies.png?raw=true'
     -
       index: 3
@@ -112,6 +115,7 @@
       descriptionText: 'Interested in contributing data to ICDC?'
       callToActionText: 'READ MORE'
       callToActionLink: '/submit'
+      externalLink: false
     -
       alt: 'ICDC Programs'
       img: 'Programs'
@@ -119,6 +123,7 @@
       descriptionText: 'Discover the programs in the ICDC'
       callToActionText: 'Learn more about various ICDC Programs'
       callToActionLink: '/programs'
+      externalLink: false
     -
       alt: 'About ICDC'
       img: 'aboutICDC'
@@ -126,6 +131,7 @@
       descriptionText: 'Comparative oncology research and more'
       callToActionText: 'READ MORE'
       callToActionLink: '/purpose'
+      externalLink: false
     -
       alt: 'ICDC News'
       img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/landingPage/ICDC_News.png'
@@ -133,6 +139,7 @@
       descriptionText: 'Updates and announcements'
       callToActionText: 'EXPLORE'
       callToActionLink: '/news'
+      externalLink: false
   content: 
     - 
       paragraph: "Data made available thru the ICDC is for research purposes only. ICDC Data received by the requestor is considered Licensed Material as defined below. ICDC data submission and data use is governed by $$[Creative Commons CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)$$ licensing terms."
