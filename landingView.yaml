@@ -83,6 +83,7 @@
         callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
         callToActionDescription: "Featured on 60 minutes with Anderson Cooper."
         callToActionButtonText: 'VIEW THE VIDEO'
+        externalLink: true,
         callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
         template: 'imageWithCaption'
