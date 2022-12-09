@@ -83,11 +83,15 @@
       value: 'icdc'
       icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Spotlight.Active.png?raw=true'
       content:
-        callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
-        callToActionDescription: "Featured on 60 minutes with Anderson Cooper."
-        callToActionButtonText: 'VIEW THE VIDEO'
-        externalLink: true
-        callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
+        # callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
+        # callToActionDescription: "Featured on 60 minutes with Anderson Cooper."
+        # callToActionButtonText: 'VIEW THE VIDEO'
+        # externalLink: true
+        # callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
+        callToActionTitle: 'Spotlight: New Canine Urothelial Carcinoma study now available'
+        callToActionDescription: "Featured in EACR's  Top 10 Cancer Research  publications."
+        callToActionButtonText: 'VIEW THE STUDY'
+        callToActionLink: '/study/UBC01'
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
         template: 'imageWithCaption'
         twitter:
@@ -95,9 +99,12 @@
         youtube:
           url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
         imageWithCaption:
-          img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
-          alt: 'ICDC researchers featured on 60 minutes'
-          caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
+          # img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
+          # alt: 'ICDC researchers featured on 60 minutes'
+          # caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
+          img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/EACR_wide_image.png?raw=true'
+          alt: 'UBC01 featured in EACR'
+          caption: 'Dr. Debbie Knapp and team continue to fight against canine urothelial carcinomas.'
         noCaptionImage:
           img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
           alt: 'Dog at vet'
