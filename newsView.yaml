@@ -19,10 +19,10 @@ tile4:
   subHeading2: Other Videos
 youtube:
   main:
-    vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
-    label: Unleashing Comparative Oncology
-    alt: ''
-    description: ''
+      vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+      label: Unleashing Comparative Oncology
+      alt: ''
+      description: ''
   others:
     - vid: 'https://www.youtube.com/watch?v=WeCTiGkVNlk'
       label: Urinary Bladder Cancer in Dogs
@@ -32,9 +32,10 @@ youtube:
       label: The Cancer Research Data Commons (CRDC)
       alt: ''
       description: ''
+
 twitter:
   tweet:
-    tweetId: '1493638757001711620'
+    tweetId: '1600520069309640704'
   timeline:
     sourceType: profile
     screenName: ncidatasci
@@ -76,6 +77,10 @@ images:
     label: Samantha
     caption:
 content:
+  - paragraph: >-
+      TCL01 was released on December 1, 2022. The title of this study is "Whole exome sequencing analysis of canine cancer cell lines". This adds 45 cases and 95 files for a total increase of 620 GB of data.
+    label: Data Release
+    blurb: Data Release
   - paragraph: >-
       The ICDC team released v.3.39.4 on October 25, 2022. This release expands the functionality of JBrowse by enabling analysis across
       multiple sequence files, improves system performance via integration of Elasticsearch, and enables identification of data model properties actively displayed in the user interface. Addtionally, there are several upgrades to the Data Model Explorer, including
