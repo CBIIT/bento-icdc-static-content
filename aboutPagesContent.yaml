@@ -437,7 +437,7 @@
     - 
       paragraph: "https://caninecommons.cancer.gov/v1/graphql/"
     - 
-      paragraph: "Users do not require authentication to the system - all data is public."
+      paragraph: "Users do not require authentication to the system - all data are public."
     - 
       paragraph: "These APIs are provided “as is”; there are no warranties or conditions arising out of usage of these services."
     - 
