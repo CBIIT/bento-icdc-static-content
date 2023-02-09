@@ -16,34 +16,34 @@
     alt: 'ICDC program'
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Program.png'
     titleText: 'Programs'
-    descriptionText: 'Discover the programs in ICDC'
+    descriptionText: 'Discover programs within the ICDC'
     callToActionText: 'Learn more about various ICDC Programs'
     callToActionLink: '/programs'
   tile3:
     alt: 'ICDC studies'
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Studies.png'
     titleText: 'Studies'
-    descriptionText: 'Browse the studies in ICDC'
+    descriptionText: 'Browse studies within the ICDC'
     callToActionText: 'EXPLORE'
     callToActionLink: '/studies'
   tile4:
     alt: 'ICDC submit'
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Submit.png'
     titleText: 'Submit Data'
-    descriptionText: ' Interested in contributing data to ICDC?'
+    descriptionText: 'Interested in contributing data to the ICDC?'
     callToActionText: 'READ MORE'
     callToActionLink: '/submit'
   tile5: 
     alt: 'ICDC cases'
     img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/images/png/landingPage_Cases.png'
     titleText: 'Cases'
-    descriptionText: 'Search across cases and build cohorts from the programs and studies in the ICDC. The data files from these cohorts can then be analyzed in the Cloud Resources.'
+    descriptionText: 'Search across cases and build cohorts from programs and studies within the ICDC. The data files from these cohorts can then be analyzed using the Cloud Resources.'
     callToActionText: 'EXPLORE'
     callToActionLink: '/explore'
   tabs:
     -
       index: 0
-      label: 'Explore ICDC'
+      label: 'Explore the ICDC'
       value: 'explore'
       icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Explore.Active.png?raw=true'
       content:
@@ -55,13 +55,13 @@
         image: ''
     -
       index: 1
-      label: 'Data Model Explorer'
+      label: 'Data Model Navigator'
       value: 'dictionary'
       icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.DataDictionary.Open.png?raw=true'
       content:
-        callToActionTitle: 'Delve into the Data Model'
+        callToActionTitle: 'Navigate the Data Model'
         callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
-        callToActionButtonText: 'DATA MODEL EXPLORER'
+        callToActionButtonText: 'DATA MODEL NAVIGATOR'
         callToActionLink: '/icdc-data-model'
         externalLink: false
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
@@ -83,15 +83,11 @@
       value: 'icdc'
       icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Spotlight.Active.png?raw=true'
       content:
-        # callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
-        # callToActionDescription: "Featured on 60 minutes with Anderson Cooper."
-        # callToActionButtonText: 'VIEW THE VIDEO'
-        # externalLink: true
-        # callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
-        callToActionTitle: 'Spotlight: New Canine Urothelial Carcinoma study now available'
-        callToActionDescription: "Featured in EACR's  Top 10 Cancer Research  publications."
-        callToActionButtonText: 'VIEW THE STUDY'
-        callToActionLink: '/study/UBC01'
+        callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
+        callToActionDescription: "Featured on 60 minutes with Anderson Cooper."
+        callToActionButtonText: 'VIEW THE VIDEO'
+        externalLink: true
+        callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
         template: 'imageWithCaption'
         twitter:
@@ -99,12 +95,9 @@
         youtube:
           url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
         imageWithCaption:
-          # img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
-          # alt: 'ICDC researchers featured on 60 minutes'
-          # caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
-          img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/EACR_wide_image.png?raw=true'
-          alt: 'UBC01 featured in EACR'
-          caption: 'Dr. Debbie Knapp and team continue to fight against canine urothelial carcinomas.'
+          img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
+          alt: 'ICDC researchers featured on 60 minutes'
+          caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
         noCaptionImage:
           img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
           alt: 'Dog at vet'
@@ -119,7 +112,7 @@
       alt: 'ICDC submit'
       img: 'submitData'
       titleText: 'Submit Data'
-      descriptionText: 'Interested in contributing data to ICDC?'
+      descriptionText: 'Interested in contributing data to the ICDC?'
       callToActionText: 'READ MORE'
       callToActionLink: '/submit'
       externalLink: false
@@ -127,14 +120,14 @@
       alt: 'ICDC Programs'
       img: 'Programs'
       titleText: 'Programs'
-      descriptionText: 'Discover the programs in the ICDC'
+      descriptionText: 'Discover programs within the ICDC'
       callToActionText: 'Learn more about various ICDC Programs'
       callToActionLink: '/programs'
       externalLink: false
     -
       alt: 'About ICDC'
       img: 'aboutICDC'
-      titleText: 'About ICDC'
+      titleText: 'About the ICDC'
       descriptionText: 'Comparative oncology research and more'
       callToActionText: 'READ MORE'
       callToActionLink: '/purpose'
@@ -179,5 +172,5 @@
       paragraph: "$$#Embargo Period for datasets:#$$"
       label: "Lorem Ipsum"
     - 
-      paragraph: "Certain datasets made available in ICDC will have an embargo period as an associated publication is in the process of being accepted and or published.  An embargo is the release of limited metadata on the ICDC portal until an approval is obtained from the respective data submitter. There are several visual icons intended to flag studies that have an active embargo to inform users that the data will be released to ICDC in the near future."
+      paragraph: "Certain datasets made available in the ICDC will have an embargo period as an associated publication is in the process of being accepted and or published.  An embargo is the release of limited metadata on the ICDC portal until an approval is obtained from the respective data submitter. There are several visual icons intended to flag studies that have an active embargo to inform users that the data will be released to ICDC in the near future."
       label: "Lorem Ipsum"
