@@ -125,8 +125,7 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_DGAB.jpeg'
   content: 
     - 
-      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers who have data that will contribute to this mission and who are willing to share that data via the ICDC are encouraged to make a data submission request through the $${title:Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$, and per our $$[Data Submission Guidelines](target:_self url:/#/submit)$$. The request will be processed by ICDC’s Data Governance Advisory Board (DGAB) which consists of 4 external members (all members of the ICDC Steering Committee, with one of the four acting as the DGAB Chair) and 2 NIH members, supported by FNLCR staff. The DGAB meets regularly to prioritize data submission requests and to advise the NCI on the suitability of each proposed data submission for its inclusion in the ICDC. Based upon recommendations from the DGAB, the NCI Senior Advisory Committee (SAC) then makes all final decisions as to the approval and prioritization of studies, including any re-prioritization that may become necessary. The individual members of the DGAB and SAC are identified below.
-"
+      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers who have data that will contribute to this mission and who are willing to share that data via the ICDC are encouraged to make a data submission request through the $${title:Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$, and per our $$[Data Submission Guidelines](target:_self url:/#/submit)$$. The request will be processed by ICDC’s Data Governance Advisory Board (DGAB) which consists of 4 external members (all members of the ICDC Steering Committee, with one of the four acting as the DGAB Chair) and 2 NIH members, supported by FNLCR staff. The DGAB meets regularly to prioritize data submission requests and to advise the NCI on the suitability of each proposed data submission for its inclusion in the ICDC."
     - 
       paragraph: ~
     - 
@@ -173,7 +172,7 @@
     - 
       paragraph: ~
     - 
-      paragraph: "The NCI Senior Advisory Committee serves as the final point of approval and prioritization for studies, and as the final deciding point of any re-prioritization that becomes necessary."
+      paragraph: "Based upon recommendations from the DGAB, the NCI Senior Advisory Committee (SAC) subsequently makes all final decisions as to the approval and prioritization of studies, including any re-prioritization that may become necessary. The individual members of the DGAB and SAC are identified below."
     - 
       table: 
         - 
