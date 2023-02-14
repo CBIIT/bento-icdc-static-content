@@ -483,7 +483,7 @@
       paragraph: "NEW In support of data submissions, the ICDC application now includes a sophisticated and intuitive Data Model Navigator which provides end users in general, and data submitters in particular, with access to a wealth of information regarding the graph-based data model upon which the ICDC is based."
     -
       paragraph: "NEW The Data Model Navigator’s Graph View provides an interactive, graphical rendering of the data model, which can be filtered in order to identify the nodes (equivalent to tables in traditional relational databases) and therefore properties (equivalent to fields) of most relevance to any given study. The associated Table View function displays detailed tabular views of each node which fully-define the properties within them, inclusive of the applicable controlled vocabularies of acceptable terms, and identify which properties are required versus preferred or optional."
-      
+    -  
       paragraph: "NEW Comprehensive documentation of the data model’s nodes and property requirements can be downloaded in PDF format, alongside node-specific data loading templates into which data submitters can insert the relevant data values and thereby create loading-ready data files. In addition, machine-readable versions of any given controlled vocabulary of interest can be downloaded, in support of data submitters validating their templated data prior to its submission. All potential data submitters are therefore strongly encouraged to use the Data Model Navigator to familiarize themselves with the ICDC data model prior to initiating the data submission process."
     -
       paragraph: "$$#NEW THE DATA ON-BOARDING PROCESS:#$$"
