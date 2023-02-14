@@ -433,19 +433,19 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_Developer.jpeg'
   content: 
     - 
-      paragraph: "The ICDC System features a read-only GRAPHQL API that is available for public consumption:"
+      paragraph: "The ICDC features a read-only GRAPHQL API that is available for public consumption:"
     - 
       paragraph: "https://caninecommons.cancer.gov/v1/graphql/"
     - 
-      paragraph: "Users do not require authentication to the system - the data are public."
+      paragraph: "Users do not require authentication to the system - all data are public."
     - 
       paragraph: "These APIs are provided “as is”; there are no warranties or conditions arising out of usage of these services."
     - 
       paragraph: "$$#GITHUB:#$$"
     - 
-      paragraph: "As a resource for the public and cancer research, $$[The ICDC GitHub repo](https://github.com/CBIIT/icdc-codebase)$$ is available for research, usage, forking, and pull requests. The codebase is intended for sharing and building frameworks for related initiatives and projects. The ICDC GitHub repo has documentation about how to access the system, including endpoints and recommendations for tools and example queries. Both the project and documentation are currently maintained and updated."
+      paragraph: "As a resource for the public and cancer research, $$[The ICDC GitHub repo](https://github.com/CBIIT/bento-icdc-frontend)$$ is available for research, usage, forking, and pull requests. The codebase is intended for sharing and building frameworks for related initiatives and projects. The ICDC GitHub repo has documentation about how to access the system, including endpoints and recommendations for tools and example queries. Both the project and documentation are currently maintained and updated."
     - 
-      paragraph: "ICDC is based on a Graph database, and features a GraphQL API (Java), and a React front-end (JavaScript). Each tier in the application stack is designed to be modular and adaptable for a variety of use-cases and scenarios."
+      paragraph: "ICDC is based on a Graph database, and features a GraphQL API (Java), and a React front-end (JavaScript). Each tier in the application stack is designed to be modular and adaptable for a variety of use cases and scenarios."
 
 - 
   page: /support
