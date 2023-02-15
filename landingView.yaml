@@ -84,7 +84,7 @@
       icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Spotlight.Active.png?raw=true'
       content:
         callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
-        callToActionDescription: "Featured on 60 minutes with Anderson Cooper."
+        callToActionDescription: "Featured on 60 MINUTES with Anderson Cooper."
         callToActionButtonText: 'VIEW THE VIDEO'
         externalLink: true
         callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
@@ -96,7 +96,7 @@
           url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
         imageWithCaption:
           img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
-          alt: 'ICDC researchers featured on 60 minutes'
+          alt: 'ICDC researchers featured on 60 MINUTES'
           caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
         noCaptionImage:
           img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
