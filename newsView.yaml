@@ -78,17 +78,18 @@ images:
     caption:
 content:
   - paragraph: >-
-      TCL01 was released on December 1, 2022. The title of this study is "Whole exome sequencing analysis of canine cancer cell lines". This adds 45 cases and 95 files for a total increase of 620 GB of data.
+      OSA03 was released on May 24, 2023. The title of this study is “Comparative analysis using whole genome bisulfite sequencing of human and canine osteosarcoma" adding 44 cases and 88 files for a total increase of 73 GB of data.
     label: Data Release
     blurb: Data Release
   - paragraph: >-
-      The ICDC team released v.3.39.4 on October 25, 2022. This release expands the functionality of JBrowse by enabling analysis across
-      multiple sequence files, improves system performance via integration of Elasticsearch, and enables identification of data model properties actively displayed in the user interface. Addtionally, there are several upgrades to the Data Model Explorer, including
-      the support for download of controlled vocabularies in machine-readable TSV and JSON formats, the support for download of a template for file transfer manifests, and the support for download of node pdfs in landscape orientation. To view official release notes copy this link into your browser window: https://github.com/CBIIT/bento-icdc-frontend/releases/tag/v3.39.4-992
-    label: Software Development
+      UC01 was released on April 13, 2023. The title of this study is “Whole exome sequencing analysis of canine urothelial carcinomas without BRAF V595E mutation" adding 36 cases and 73 files for a total increase of 1.5 TB of data.
+    label: Data Release
+    blurb: Data Release
+  - paragraph: >-
+      The ICDC team released v.3.49.2 on February 14, 2023. This release introduces the Data Model Navigator, enabling users to navigate the ICDC data model better than ever before. Key terminology and controlled vocabularies can be displayed within the application or downloaded for reference. Data submitters can now download template-based data loading files for their data submissions and use the new example set of data loading files as a guide. Other notable features include support for redirection from within the ICDC Spotlight section, allowing users to be redirected to relevant videos and materials; a new Interoperation Microservice, which will be used to support API calls to other CRDC repostiories; and a footer that is compliant with NCI Digital Standards.
     blurb: Software Release Update
   - paragraph: >-
-      The ICDC team was featured in the October blog from the Center for Biomedical Informatics & Information Technology in an article titled, "A Tail-Wagging Good Time-Working on the Integrated Canine Data Commons". To read the full article, copy this link into your browser window: https://datascience.cancer.gov/news-events/blog/tail-wagging-good-time-working-integrated-canine-data-commons 
+      The ICDC team was featured in the October blog from the Center for Biomedical Informatics & Information Technology (CBIIT) in an article titled, "A Tail-Wagging Good Time-Working on the Integrated Canine Data Commons". To read the full article, copy this link into your browser window: https://datascience.cancer.gov/news-events/blog/tail-wagging-good-time-working-integrated-canine-data-commons 
     blurb: Meet the ICDC team
     label: Meet the ICDC team
   - paragraph: >-
