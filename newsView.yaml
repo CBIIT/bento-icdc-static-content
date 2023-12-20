@@ -78,16 +78,16 @@ images:
     caption:
 content:
   - paragraph: >-
-      OSA03 was released on May 24, 2023. The title of this study is “Comparative analysis using whole genome bisulfite sequencing of human and canine osteosarcoma" adding 44 cases and 88 files for a total increase of 73 GB of data.
+      The ICDC team released v.4.0.0 on December 21, 2023. This release introduces a single click export of ICDC files into the Cancer Genomics Cloud, the ability to search for any term across the application, the ability to find specific case IDs, and a dynamic query bar that reflects every filter applied and every Case ID entered within the Explore Dashboard.
+    blurb: Software Release 
+  - paragraph: >-
+      ORGANOIDS01 was released on October 16, 2023. The title of this study is “Characterization of healthy, diseased, and cancer canine organoids for applications in personalized medicine and translational research” adding 5 cases and 52 data files for a total increase of ~400 GB of data.
     label: Data Release
     blurb: Data Release
   - paragraph: >-
-      UC01 was released on April 13, 2023. The title of this study is “Whole exome sequencing analysis of canine urothelial carcinomas without BRAF V595E mutation" adding 36 cases and 73 files for a total increase of 1.5 TB of data.
-    label: Data Release
-    blurb: Data Release
-  - paragraph: >-
-      The ICDC team released v.3.49.2 on February 14, 2023. This release introduces the Data Model Navigator, enabling users to navigate the ICDC data model better than ever before. Key terminology and controlled vocabularies can be displayed within the application or downloaded for reference. Data submitters can now download template-based data loading files for their data submissions and use the new example set of data loading files as a guide. Other notable features include support for redirection from within the ICDC Spotlight section, allowing users to be redirected to relevant videos and materials; a new Interoperation Microservice, which will be used to support API calls to other CRDC repostiories; and a footer that is compliant with NCI Digital Standards.
-    blurb: Software Release Update
+      A manuscript from the ICDC Best Practices Committee was published by the Journal of Veterinary and Comparative Oncology on October 1, 2023, titled "Leading the pack: Best practices in comparative canine cancer genomics to inform human oncology". [https://doi.org/10.1111/vco.12935]
+    label: New Publication
+    blurb: New Publication
   - paragraph: >-
       The ICDC team was featured in the October blog from the Center for Biomedical Informatics & Information Technology (CBIIT) in an article titled, "A Tail-Wagging Good Time-Working on the Integrated Canine Data Commons". To read the full article, copy this link into your browser window: https://datascience.cancer.gov/news-events/blog/tail-wagging-good-time-working-integrated-canine-data-commons 
     blurb: Meet the ICDC team
