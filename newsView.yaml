@@ -78,7 +78,7 @@ images:
     caption:
 content:
   - paragraph: >-
-      The ICDC team released v.4.0.0 on December 21, 2023. This release introduces a single click export of ICDC files into the Cancer Genomics Cloud, the ability to search for any term across the application, the ability to find specific case IDs, and a dynamic query bar that reflects every filter applied and every Case ID entered within the Explore Dashboard.
+      The ICDC team released v.4.0.0 on February 2, 2024. This release introduces a single click export of ICDC files into the Cancer Genomics Cloud, the ability to search for any term across the application, the ability to find specific case IDs, and a dynamic query bar that reflects every filter applied and every Case ID entered within the Explore Dashboard.
     blurb: Software Release 
   - paragraph: >-
       ORGANOIDS01 was released on October 16, 2023. The title of this study is “Characterization of healthy, diseased, and cancer canine organoids for applications in personalized medicine and translational research” adding 5 cases and 52 data files for a total increase of ~400 GB of data.
