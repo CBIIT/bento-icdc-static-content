@@ -5,28 +5,295 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_Purpose.jpeg'
   content: 
     - 
-      paragraph: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) charged the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC), a cloud-based repository of spontaneously-arising canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects. The data is harmonized into an integrated data model and then made available to the research community. The ICDC is part of the $$[Cancer Research Data Commons](https://datacommons.cancer.gov/)$$, an initiative from NCI’s Center for Biomedical Informatics and Information Technology (CBIIT). Bioinformatic analysis of the ICDC data is accomplished using the CRDC’s $$[Cloud Resources](target:_self url:/#/crdc type:0)$$."
+      paragraph: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) charged the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC), a cloud-based repository of spontaneously-arising canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects. The data is harmonized into an integrated data model and then made available to the research community. The ICDC is part of the $$[Cancer Research Data Commons (CRDC)](https://datacommons.cancer.gov/)$$, an initiative from NCI’s Center for Biomedical Informatics and Information Technology (CBIIT). Bioinformatic analysis of the ICDC data is accomplished using the CRDC’s $$[Cloud Resources](target:_self url:/#/crdc type:0)$$."
     - 
       paragraph: "Within the FNLCR, the Bioinformatics and Computational Science (BACS) Directorate is focused on software engineering and data science. The Applied and Developmental Research Directorate (ADRD) is managing the ICDC Steering Committee and providing one of the data sources for the ICDC. The ICDC Steering Committee is comprised of external members, FNLCR and NCI staff that provides guidance to DCTD on the ICDC."
 - 
-  page: /BPSC
-  title: Best Practices Sub-Committee 
+  page: /steeringCommittee
+  title: "Steering Committee"
+  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_SteeringCommittee.jpeg'
+  content: 
+    - 
+      paragraph: "The Integrated Canine Data Commons (ICDC) is community-driven and built with input and collaboration from many groups to foster a diversity of ideas and to ensure needs are identified across the broad research community. To achieve this collaboration, the ICDC Steering Committee was formed to advise the NCI and FNLCR on the ICDC. The Steering Committee is composed of members from the non-NIH research community, NCI, NHGRI, and NCATS. There is also ex-officio members who are FNLCR staff. All chairpersons are from the non-NIH research community."
+    - 
+      paragraph: "The Steering Committee has two sub-committees: the $$[Data Governance Advisory Board](target:_self url:/#/dgab type:0)$$ (DGAB) and the $$[Best Practices Sub-Committee](target:_self url:/#/bpsc type:0)$$ (BPSC)."
+    - 
+      table: 
+        - 
+          head: 
+            - name
+            - institution
+            - affliation
+            - subcommitee
+        - 
+          body: 
+            - 
+              row: 
+                - $$[Anne Avery](target:_blank url:https://vetmedbiosci.colostate.edu/directory/member/?id=anne-avery-3106)$$
+                - "Colorado State University"
+                - External
+                - DGAB
+                - "-"
+            -
+              row:
+                - $$[Erika Berger](target:_blank url:https://www.linkedin.com/in/erika-berger-b051836a/)$$
+                - FNLCR
+                - FNL
+                - "-"
+            -
+              row: 
+                - $$[Matthew Breen](target:_blank url:https://cvm.ncsu.edu/directory/breen-matthew/)$$
+                - "North Carolina State University"
+                - External
+                - DGAB
+            - 
+              row: 
+                - $$[M. Renee Chambers](target:_blank url:https://www.medicalwesthospital.org/doctor.php?cn=498)$$
+                - "University of Alabama at Birmingham"
+                - External
+                - BPSC
+            - 
+              row: 
+                - $$[James Dattilo](target:_blank url:https://www.precinctnetwork.org/)$$
+                - "University of Pennslyvania"
+                - External
+                - BPSC
+            - 
+              row: 
+                - $$[Dawn Duval](target:_blank url:https://vetmedbiosci.colostate.edu/directory/member/?id=dawn-duval-1011)$$
+                - "Colorado State University"
+                - External
+                - BPSC
+            - 
+              row: 
+                - $$[Toby Hecht](target:_blank url:https://trp.cancer.gov/about_trp/bios/hecht_toby.htm)$$
+                - DCTD/NCI
+                - NIH
+                - BPSC
+            - 
+              row: 
+                - $$[William Hendricks](target:_blank url:https://www.tgen.org/faculty-profiles/will-hendricks/)$$
+                - "Translational Genomics Research Institute (TGen)"
+                - External
+                - DGAB
+            - 
+              row: 
+                - $$[Paula Jacobs](target:_blank url:https://www.researchgate.net/profile/Paula_Jacobs)$$
+                - CIP/DCTD/NCI
+                - NIH
+                - BPSC
+            - 
+              row: 
+                - $$[Warren Kibbe](target:_blank url:https://scholars.duke.edu/person/warren.kibbe)$$
+                - "Duke University"
+                - External
+                - DGAB
+            - 
+              row: 
+                - $$[Erika Kim](target:_blank url:https://datascience.cancer.gov/about/staff-directory/erika-kwon)$$
+                - CBIIT/NCI
+                - NIH
+                - "DGAB, BPSC"
+            - 
+              row: 
+                - $$[Deborah Knapp](target:_blank url:https://vet.purdue.edu/directory/person.php?id=28)$$
+                - "Purdue University"
+                - External
+                - BPSC
+            - 
+              row: 
+                - $$[Gina Kuffel](target:_blank url:https://orcid.org/0000-0003-4061-0092)$$
+                - FNLCR
+                - FNL
+                - "DGAB, BPSC"
+            -
+              row: 
+                - $$[Amy LeBlanc](target:_blank url:https://ccr.cancer.gov/molecular-imaging-program/amy-k-leblanc)$$
+                - COP/CCR/NCI
+                - NIH
+                - DGAB
+            - 
+              row: 
+                - $$[Cheryl London](target:_blank url:https://vetprofiles.tufts.edu/profile/cheryl-london/)$$
+                - "Tufts University"
+                - External
+                - BPSC
+            - 
+              row: 
+                - $$[Christina Mazcko](target:_blank url:https://ccr.cancer.gov/comparative-oncology-program/contact-us)$$
+                - COP/CCR/NCI
+                - NIH
+                - "-"
+            - 
+              row: 
+                - $$["Philip Musk"](target:_blank url:https://www.linkedin.com/in/philipmusk/)$$
+                - FNLCR
+                - FNL
+                - DGAB
+            - 
+              row: 
+                - $$[Elaine Ostrander](target:_blank url:https://irp.nih.gov/pi/elaine-ostrander)$$
+                - CGCGB/NHGRI
+                - NIH
+                - BPSC
+            - 
+              row: 
+                - $$[John Otridge](target:_blank url:https://frederick.cancer.gov/about/people/john-otridge)$$
+                - FNLCR
+                - FNL
+                - "-"
+            - 
+              row: 
+                - $$[Ralph Parchment](target:_blank url:https://frederick.cancer.gov/about/people/ralph-parchment)$$
+                - FNLCR
+                - FNL
+                - "-"
+            - 
+              row: 
+                - $$[Adam Resnick](target:_blank url:https://www.research.chop.edu/people/adam-c-resnick)$$
+                - Children's Hospital of Philadelphia
+                - External
+                - "-"
+            - 
+              row: 
+                - $$[Connie Sommers](target:_blank url:https://dtp.cancer.gov/organization/iob/staff_profiles.htm)$$
+                - IOB/DTP/DCTD/NCI
+                - NIH
+                - "DGAB, BPSC"
+            - 
+              row: 
+                - $$[Greg Tawa](target:_blank url:https://ncats.nih.gov/staff/tawagj)$$
+                - TRNDP/NCATS
+                - NIH
+                - DGAB
+            - 
+              row: 
+                - $$[Jeff Trent](target:_blank url:https://www.tgen.org/faculty-profiles/jeffrey-trent/)$$
+                - "Translational Genomics Research Institute (TGen)"
+                - External
+                - BPSC
+            - 
+              row: 
+                - $$[Roel Verhaak](target:_blank url:https://medicine.yale.edu/profile/roel-verhaak/)$$
+                - "Yale School of Medicine"
+                - External
+                - DGAB
+            - 
+              row: 
+                - $$[Shaying Zhao](target:_blank url:https://www.bmb.uga.edu/directory/people/shaying-zhao)$$
+                - "University of Georgia"
+                - External
+                - BPSC 
+- 
+  page: /DGAB
+  title: Data Governance Advisory Board 
+  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_DGAB.jpeg'
+  content: 
+    - 
+      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers willing to contribute and share relevant data to this mission via the ICDC are encouraged to make a data submission request through the $${title: Data Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$, and per our $$[Data Submission Guidelines](target:_self url:/#/submit)$$. The request will be processed by ICDC’s Data Governance Advisory Board (DGAB) which consists of 4 external members (all members of the ICDC Steering Committee, with one of the four acting as the DGAB Chair), 2 NIH members, and supported by FNLCR staff. The DGAB meets regularly to prioritize data submission requests and to advise the NCI on the suitability of each proposed data submission for its inclusion in the ICDC. The individual members of the DGAB are identified below."
+    - 
+      paragraph: ~
+    - 
+      table: 
+        - 
+          head: 
+            - name
+            - position
+            - affiliation
+        - 
+          body: 
+            - 
+              row: 
+                - "Warren Kibbe"
+                - Chair
+                - "Duke University"
+            - 
+              row: 
+                - "Matthew Breen"
+                - Member
+                - "North Carolina State University"
+            - 
+              row: 
+                - "William Hendricks"
+                - Member
+                - "Translational Genomics Research Institute (TGen)"
+            - 
+              row: 
+                - "Erika Kim"
+                - Member
+                - NIH/NCI/CBIIT
+            - 
+              row: 
+                - "Gina Kuffel"
+                - Member
+                - FNLCR
+            - 
+              row: 
+                - "Phillip Musk"
+                - Member
+                - FNLCR
+            -
+              row: 
+                - "Greg Tawa"
+                - Member
+                - NIH/TRNDP/NCATS
+            - 
+              row: 
+                - "Roel Verhaak"
+                - Member
+                - "Yale School of Medicine"   
+    - 
+      paragraph: ~
+    - 
+      paragraph: ~
+    - 
+      paragraph: "Based upon recommendations from the DGAB, the NCI Senior Advisory Committee (SAC) subsequently makes all final decisions as to the approval and prioritization of incoming studies, including any re-prioritization that may become necessary. The individual members of the SAC are identified below."
+    - 
+      table: 
+        - 
+          head: 
+            - name
+            - position
+            - affiliation
+        - 
+          body: 
+            - 
+              row: 
+                - "Connie Sommers"
+                - Chair
+                - NIH/NCI/DCTD
+            - 
+              row: 
+                - "Javed Kahn"
+                - Member
+                - NIH/NCI/CCR/CGB
+            - 
+              row: 
+                - "Amy LeBlanc"
+                - Member
+                - NIH/NCI/CCR/COP
+
+page: /BPSC
+  title: Best Practices Subcommittee 
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_BPSC.jpeg'
   content: 
     - 
-      paragraph: "The Best Practices Sub-Committee (BPSC) has the responsibility for examining past and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will aid the wider community in study design and data collection and enhance their research to better enable human/canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff and is supported by FNLCR staff. The ICDC, which will encompass many data types, is currently focused into three working groups: Imaging, Genomics, and Longitudinal Data Use and Acquistion."
+      paragraph: "The Best Practices Subcommittee (BPSC) has the responsibility for examining completed and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will help the broader community in study design and data collection to enhance research to better enable human and canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff, and is supported by FNLCR staff. 
+    - 
+      paragraph: "The ICDC, which will encompass many data types, is currently focused into three working groups; Imaging, Genomics, and Longitudinal Data Use and Acquistion."
+      
     - 
       paragraph: "$$#WORKING GROUP GOALS:#$$"
     - 
-      paragraph: "$$*Imaging Working Group*$$: To provide the comparative cancer research community with guidelines and best practices for the collection, formatting and reporting of imaging data collected from canine companion animals with naturally-occurring cancers into the Integrated Canine Data Commons (ICDC). Accomplishing this goal will to facilitate the utilization and analysis of such data by stakeholders in the cancer research community and facilitate dog-to-human translational research and advancement of knowledge in the comparative oncology space."
+      paragraph: "$$*Imaging Working Group*$$: To provide the comparative cancer research community with guidelines and best practices for the collection, formatting and reporting of imaging data collected from canine companion animals with naturally-occurring cancers into the Integrated Canine Data Commons (ICDC). Accomplishing this goal will facilitate the utilization and analysis of such data by stakeholders in the cancer research community and facilitate dog-to-human translational research and advancement of knowledge in the comparative oncology space."
     # - 
     #   paragraph: "$$*Clinical/Pathology*$$: To provide a standard set of clinical and pathological information to be collected when conducting canine clinical trials. By defining these data points for the community, and including an appropriate list of values, we hope to be able to more easily compare subjects and their data across studies."
     - 
-      paragraph: "$$*Genomics Working Group*$$: To provide an overview of next generation sequencing (NGS) study design, assays and analysis approaches (focusing on genomics and transcriptomics) used by diverse canine cancer research teams alongside annotation of validation studies, canine-specific tool needs, and parameters; identify common elements across published analyses; establish general principles in canine cancer genomics best practices modeled on human cancer genomics best practice principles; identify gaps in canine cancer genomics best practices and propose solutions."
+      paragraph: "$$*Genomics Working Group*$$: To provide an overview of next generation sequencing (NGS) study design, assays and analysis approaches (focusing on genomics and transcriptomics) used by diverse canine cancer research teams alongside annotation of validation studies, canine-specific tooling and parameters, identify common data elements across published analyses, establish general principles in canine cancer genomics best practices modeled on human cancer genomics best practice principles; identify gaps in canine cancer genomics best practices and propose solutions."
     # - 
     #   paragraph: "$$*Immunology*$$: To provide a standard and expandable set of immunologic measurements to contextualize the changes that occur during treatment of spontaneously arising cancer in canines. Basic measurements will be compared across studies, while specialized study measurements will be used to understand specific outcomes. We hope this will lead to a better understanding of response to immunologic treatment and potentially to providing potential lines of investigation for treatment in humans."
     -
-      paragraph: "$$*Longitudinal Data Use & Acquistion Working Group (LDAUWG)*$$: To identify potential collaborators generating longitudinal data and survey the landscape of available datasets.  Scientific questions and use cases will motivate the efforts to acquire data for ingestion into the ICDC."
+      paragraph: "$$*Longitudinal Data Use & Acquistion Working Group (LDAUWG)*$$: To identify potential collaborators generating longitudinal data and survey the landscape of available datasets. Scientific questions and use cases will motivate the efforts to acquire data for ingestion into the ICDC."
     - 
       table: 
         - 
@@ -37,19 +304,32 @@
             - "Working Group"
         - 
           body: 
-            # - 
-            #   row: 
-            #     - "Jeff Trent"
-            #     - "Chair, BPSC"
-            #     - "Translational Genomics Research Institute (TGen)"
-            #     - "-"
+            - 
+              row: 
+                - "Erika Berger"
+                - Member
+                - FNLCR
+                - "Longitudinal Data Use & Acquistion"
+            - 
+              row: 
+                - "Matthew Breen"
+                - "Chair, LDAUWG"
+                - "North Carolina State University"
+                - "Longitudinal Data Use & Acquistion"
+            
             - 
               row: 
                 - "M. Renee Chambers"
-                - "Chair, Clin/Path WG"
+                # - "Chair, Clin/Path WG"
                 - "University of Alabama at Birmingham"
                 # - Clinical/Pathology
                 - Longitudinal Data Use & Acquistion
+            - 
+              row: 
+                - "James Dattilo"
+                - Member
+                - University of Pennslyvania
+                - "Longitudinal Data Use & Acquistion"
             - 
               row: 
                 - "Dawn Duval"
@@ -75,6 +355,18 @@
                 - "Co-Chair, Imaging WG"
                 - NIH/NCI/DCTD
                 - Imaging, Longitudinal Data Use & Acquistion
+            - 
+              row: 
+                - "Warren Kibbe"
+                - Member
+                - Duke University
+                - "Longitudinal Data Use & Acquistion"
+            - 
+              row: 
+                - "Gina Kuffel"
+                - Member
+                - FNLCR
+                - "Longitudinal Data Use & Acquistion"
             - 
               row: 
                 - "Amy LeBlanc"
@@ -104,8 +396,20 @@
                 - "Connie Sommers"
                 - Member
                 - NIH/NCI/DCTD/DTP/IOB
-                # 
+                # - Immunology
                 - Longitudinal Data Use & Acquistion
+            - 
+              row: 
+                - "Gregory Tawa"
+                - Member
+                - TRNDP/NCATS
+                - "Longitudinal Data Use & Acquistion"
+            - 
+              row: 
+                - "Roel Verhaak"
+                - Member
+                - Yale School of Medicine
+                - "Longitudinal Data Use & Acquistion"
             - 
               row: 
                 - "Shaying Zhao"
@@ -113,269 +417,6 @@
                 - "University of Georgia"
                 # - "Genomics, Immunology"
                 - Genomics, Longitudinal Data Use & Acquistion
-            - 
-              row: 
-                - "Gina Kuffel"
-                - Facilitator
-                - FNLCR
-                - "-"
-            - 
-              row: 
-                - "Philip Musk"
-                - "Data Scientist"
-                - FNLCR
-                - "-"
-- 
-  page: /DGAB
-  title: Data Governance Advisory Board 
-  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_DGAB.jpeg'
-  content: 
-    - 
-      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers who have data that will contribute to this mission and who are willing to share that data via the ICDC are encouraged to make a data submission request through the $${title:Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$, and per our $$[Data Submission Guidelines](target:_self url:/#/submit)$$. The request will be processed by ICDC’s Data Governance Advisory Board (DGAB) which consists of 4 external members (all members of the ICDC Steering Committee, with one of the four acting as the DGAB Chair) and 2 NIH members, supported by FNLCR staff. The DGAB meets regularly to prioritize data submission requests and to advise the NCI on the suitability of each proposed data submission for its inclusion in the ICDC. The individual members of the DGAB are identified below."
-    - 
-      paragraph: ~
-    - 
-      table: 
-        - 
-          head: 
-            - name
-            - position
-            - affiliation
-        - 
-          body: 
-            - 
-              row: 
-                - "Warren Kibbe"
-                - Chair
-                - "Duke University"
-            - 
-              row: 
-                - "Matthew Breen"
-                - Member
-                - "North Carolina State University"
-            - 
-              row: 
-                - "William Hendricks"
-                - Member
-                - "Translational Genomics Research Institute (TGen)"
-            - 
-              row: 
-                - "Roel Verhaak"
-                - Member
-                - "Yale School of Medicine"
-            - 
-              row: 
-                - "Greg Tawa"
-                - Member
-                - NIH/TRNDP/NCATS
-            - 
-              row: 
-                - "Erika Kim"
-                - Member
-                - NIH/NCI/CBIIT
-    - 
-      paragraph: ~
-    - 
-      paragraph: ~
-    - 
-      paragraph: "Based upon recommendations from the DGAB, the NCI Senior Advisory Committee (SAC) subsequently makes all final decisions as to the approval and prioritization of studies, including any re-prioritization that may become necessary. The individual members of the SAC are identified below."
-    - 
-      table: 
-        - 
-          head: 
-            - name
-            - position
-            - affiliation
-        - 
-          body: 
-            - 
-              row: 
-                - "Connie Sommers"
-                - Chair
-                - NIH/NCI/DCTD
-            - 
-              row: 
-                - "Amy LeBlanc"
-                - Member
-                - NIH/NCI/CCR/COP
-            - 
-              row: 
-                - "Javed Kahn"
-                - Member
-                - NIH/NCI/CCR/CGB
-- 
-  page: /steeringCommittee
-  title: "Steering Committee"
-  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_SteeringCommittee.jpeg'
-  content: 
-    - 
-      paragraph: "The ICDC (Integrated Canine Data Commons) is community driven and built with input and collaboration from many groups to foster diversity of ideas and to ensure needs are identified across the broad research community. To achieve this collaboration, the ICDC Steering Committee was formed to advise the NCI and FNLCR on the ICDC. The Steering Committee is composed of members from the non-NIH research community, NCI, NHGRI, and NCATS. There is also ex-officio members who are FNLCR staff. All chairpersons are from the non-NIH research community."
-    - 
-      paragraph: "The Steering Committee has two sub-committees: the $$[Data Governance Advisory Board](target:_self url:/#/dgab type:0)$$ (DGAB) and the $$[Best Practices Sub-Committee](target:_self url:/#/bpsc type:0)$$ (BPSC)."
-    - 
-      table: 
-        - 
-          head: 
-            - name
-            - institution
-            - affliation
-            - subcommitee
-        - 
-          body: 
-            - 
-              row: 
-                - $$[Matthew Breen](target:_blank url:https://cvm.ncsu.edu/directory/breen-matthew/)$$
-                - "North Carolina State University"
-                - External
-                - DGAB
-            - 
-              row: 
-                - $$[M. Renee Chambers](target:_blank url:https://www.uab.edu/medicine/caninetrial/)$$
-                - "University of Alabama at Birmingham"
-                - External
-                - BPSC
-            - 
-              row: 
-                - $$[James Dattilo](target:_blank url:https://www.precinctnetwork.org/)$$
-                - "University of Pennslyvania"
-                - External
-                - BPSC
-            - 
-              row: 
-                - $$[Dawn Duval](target:_blank url:https://vetmedbiosci.colostate.edu/directory/member/?id=dawn-duval-1011)$$
-                - "Colorado State University"
-                - External
-                - BPSC
-            - 
-              row: 
-                - $$[William Hendricks](target:_blank url:https://www.tgen.org/faculty-profiles/will-hendricks/)$$
-                - "Translational Genomics Research Institute (TGen)"
-                - External
-                - DGAB
-            - 
-              row: 
-                - $$[Warren Kibbe](target:_blank url:https://scholars.duke.edu/person/warren.kibbe)$$
-                - "Duke University"
-                - External
-                - DGAB
-            - 
-              row: 
-                - $$[Deborah Knapp](target:_blank url:https://vet.purdue.edu/directory/person.php?id=28)$$
-                - "Purdue University"
-                - External
-                - BPSC
-            - 
-              row: 
-                - $$[Cheryl London](target:_blank url:https://vetprofiles.tufts.edu/profile/cheryl-london/)$$
-                - "Tufts University"
-                - External
-                - BPSC
-            - 
-              row: 
-                - $$[Jeff Trent](target:_blank url:https://www.tgen.org/faculty-profiles/jeffrey-trent/)$$
-                - "Translational Genomics Research Institute (TGen)"
-                - External
-                - BPSC
-            - 
-              row: 
-                - $$[Roel Verhaak](target:_blank url:https://www.jax.org/research-and-faculty/faculty/roel-verhaak)$$
-                - "Yale School of Medicine"
-                - External
-                - DGAB
-            - 
-              row: 
-                - $$[Shaying Zhao](target:_blank url:https://www.bmb.uga.edu/directory/people/shaying-zhao)$$
-                - "University of Georgia"
-                - External
-                - BPSC
-            - 
-              row: 
-                - $$[Toby Hecht](target:_blank url:https://trp.cancer.gov/about_trp/bios/hecht_toby.htm)$$
-                - DCTD/NCI
-                - NIH
-                - BPSC
-            - 
-              row: 
-                - $$[Paula Jacobs](target:_blank url:https://www.researchgate.net/profile/Paula_Jacobs)$$
-                - CIP/DCTD/NCI
-                - NIH
-                - BPSC
-            - 
-              row: 
-                - $$[Tony Kerlavage](target:_blank url:https://datascience.cancer.gov/about/cbiit-director)$$
-                - CBIIT/NCI
-                - NIH
-                - "-"
-            - 
-              row: 
-                - $$[Erika Kim](target:_blank url:https://datascience.cancer.gov/about/staff-directory/erika-kwon)$$
-                - CBIIT/NCI
-                - NIH
-                - "DGAB, BPSC"
-            - 
-              row: 
-                - "Gina Kuffel"
-                - FNLCR
-                - FNL
-                - "DGAB, BPSC"
-            - 
-              row: 
-                - $$[Amy LeBlanc](target:_blank url:https://ccr.cancer.gov/molecular-imaging-program/amy-k-leblanc)$$
-                - COP/CCR/NCI
-                - NIH
-                - DGAB
-            - 
-              row: 
-                - $$[Christina Mazcko](target:_blank url:https://ccr.cancer.gov/comparative-oncology-program/contact-us)$$
-                - COP/CCR/NCI
-                - NIH
-                - "-"
-            - 
-              row: 
-                - "Philip Musk"
-                - FNLCR
-                - FNL
-                - DGAB
-            - 
-              row: 
-                - $$[Elaine Ostrander](target:_blank url:https://irp.nih.gov/pi/elaine-ostrander)$$
-                - CGCGB/NHGRI
-                - NIH
-                - BPSC
-            - 
-              row: 
-                - $$[John Otridge](target:_blank url:https://frederick.cancer.gov/about/people/john-otridge)$$
-                - FNLCR
-                - FNL
-                - "-"
-            - 
-              row: 
-                - "Ralph Parchment"
-                - FNLCR
-                - FNL
-                - "-"
-            - 
-              row: 
-                - $$[Adam Resnick](target:_blank url:https://www.research.chop.edu/people/adam-c-resnick)$$
-                - Children's Hospital of Philadelphia
-                - External
-                - "-"
-            - 
-              row: 
-                - $$[Connie Sommers](target:_blank url:https://dtp.cancer.gov/organization/iob/staff_profiles.htm)$$
-                - IOB/DTP/DCTD/NCI
-                - NIH
-                - "DGAB, BPSC"
-            - 
-              row: 
-                - $$[Greg Tawa](target:_blank url:https://ncats.nih.gov/staff/tawagj)$$
-                - TRNDP/NCATS
-                - NIH
-                - DGAB
-            
-            
-  
-- 
   page: /crdc
   title: "Cancer Research Data Commons (CRDC) and Analysis"
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_CRDC.jpeg'
@@ -383,19 +424,19 @@
     - 
       paragraph: "$$#CRDC:#$$"
     - 
-      paragraph: "$$[The Cancer Research Data Commons](https://datacommons.cancer.gov/)$$ is an initiative from NCI’s Center for Biomedical Informatics & Information Technology ($$[CBIIT](https://datascience.cancer.gov/)$$). CBIIT’s vision for the project consists of a virtual, expandable infrastructure that provides secure access to many different data types across scientific domains, allowing users to analyze, share, and store results, leveraging the storage and elastic compute, or ability to easily scale resources of the cloud. The ability to combine diverse data types and perform cross-domain analysis of large data sets can lead to new discoveries in cancer prevention, treatment and diagnosis, and supports the goals of precision medicine and the Cancer Moonshot℠."
+      paragraph: "$$[The Cancer Research Data Commons (CRDC)](https://datacommons.cancer.gov/)$$ is an initiative from NCI’s Center for Biomedical Informatics & Information Technology ($$[CBIIT](https://datascience.cancer.gov/)$$). CBIIT’s vision for the project consists of a virtual, expandable infrastructure that provides secure access to many different data types across scientific domains, allowing users to analyze, share, and store results, leveraging the storage, elastic compute, and scalability of the cloud. The ability to combine diverse data types and perform cross-domain analysis of large data sets can lead to new discoveries in cancer prevention, treatment and diagnosis, and supports the goals of precision medicine and the Cancer Moonshot℠."
     - 
       paragraph: "$$#CLOUD RESOURCES:#$$"
     - 
-      paragraph: "The CRDC has three Cloud Resources ($$[Seven Bridges Cancer Genomics Cloud powered by Velsera ](http://www.cancergenomicscloud.org/)$$,$$[ISB Cancer Genomics Cloud ](https://isb-cgc.appspot.com/)$$, $$[Broad Firecloud ](https://firecloud.terra.bio/)$$), each providing analysis platforms for the community to use when working with data from the Cancer Research Data Commons ecosystem."
+      paragraph: "The CRDC has three Cloud Resources ($$[Seven Bridges Cancer Genomics Cloud powered by Velsera ](http://www.cancergenomicscloud.org/)$$,$$[ISB Cancer Genomics Cloud ](https://isb-cgc.appspot.com/)$$, $$[Broad Firecloud ](https://firecloud.terra.bio/)$$), each providing analysis platforms for the community to use when working with data from the CRDC ecosystem."
     - 
-      paragraph: "These cloud-based platforms eliminate the need for researchers to download and store extremely large data sets by allowing them to bring analysis tools to the data in the cloud, instead of the traditional process of bringing the data to the tools on local hardware. The Cloud Resources also provide access to on-demand computational capacity to analyze these data. The Cloud Resources allow users to run best practice tools and pipelines already implemented or upload their own data or analysis methods to workspaces."
+      paragraph: "These cloud-based platforms eliminate the need for researchers to download and store extremely large data sets by enabling the ability to bring analysis tools to the data in the cloud, instead of the traditional process of bringing the data to the tools on local hardware. The Cloud Resources also provide access to on-demand computational capacity to analyze these data. The Cloud Resources allow users to run best practice tools and pipelines already implemented or to upload their own data or analysis methods to workspaces."
     - 
       paragraph: "All three Cloud Resources provide support for data access through a web-based user interface in addition to programmatic access to analytic tools and workflows, and the capability of sharing results with collaborators. Each Cloud Resource is continually developing new functionality to improve the user experience and add new tools for researchers."
     - 
-      paragraph: "$$*SEVEN BRIDGES CANCER GENOMICS CLOUD (CGC)*$$ is hosted on Amazon Web Services (AWS) and has a rich user interface that allows researchers to find data of interest and combine it with their own private data. Data can be analyzed using more than 900 preinstalled, curated bioinformatics tools and workflows. Researchers can also extend the functionality of the platform by adding their own data and tools via an intuitive software development kit."
+      paragraph: "$$*SEVEN BRIDGES CANCER GENOMICS CLOUD (CGC)*$$ is hosted on Amazon Web Services (AWS) and has a rich user interface that allows researchers to find data of interest and combine it with their own private data. Data can be analyzed using more than 900 preinstalled, curated bioinformatics tools and workflows. Researchers can also extend the functionality of the platform by adding their own data and tools via an intuitive software development kit (SDK)."
     - 
-      paragraph: "$$*INSTITUTE FOR SYSTEMS BIOLOGY CANCER GENOMICS CLOUD (ISB-CGC)*$$ leverages many aspects of the Google Cloud Platform (GCP) and allows scientists to interactively define and compare cohorts, examine underlying molecular data for specific genes and pathways, and share insights with collaborators. For computational users, Application Program Interfaces (APIs) and GCP resources such as BigQuery and Google Pipeline service, allow complex queries from R or Python scripts, or Dockerized workflows to run on data available in Google Cloud Storage."
+      paragraph: "$$*INSTITUTE FOR SYSTEMS BIOLOGY CANCER GENOMICS CLOUD (ISB-CGC)*$$ leverages many aspects of the Google Cloud Platform (GCP) and allows scientists to interactively define and compare cohorts, examine underlying molecular data for specific genes and pathways, and share insights with collaborators. For computational users, application program interfaces (APIs) and GCP resources such as BigQuery and Google Pipeline service, allow complex queries from R or Python scripts, or Dockerized workflows to run on data available in Google Cloud Storage."
     - 
       paragraph: "$$*BROAD INSTITUTE FIRECLOUD*$$ is an open, standards-based platform for performing production-scale data analysis in the cloud. Built on the Google Cloud Platform (GCP), Firecloud empowers analysts, tool developers, and production managers to run large-scale analysis and to share results with collaborators. Users can upload their own analysis methods and data to workspaces or run the Broad’s best practice tools and pipelines."
     - 
@@ -403,7 +444,7 @@
     - 
       paragraph: "Currently the ICDC supports analysis via the Seven Bridges Cancer Genomics Cloud powered by Velsera."
     - 
-      paragraph: "One of the primary goals of the ICDC data portal is to make data findable, accessible, interoperable, and reusable (FAIR) to lower the barriers for researchers to go from cohort discovery to meaningful analysis.Researchers can find cases/cohorts in the ICDC and then identify the files they would like to use for analysis. This list of files is called a File Transfer Manifest (FTM). The FTM is a csv file consisting of Data Resource Service (DRS) Identifiers. Users can download the FTM and then upload the Manifest into the CGC where the files will be available for analysis or alternatively there is a new "Export to the CGC" button that enables the simple and immediate transfer of a FTM to the CGC with only a single click . The FTM contains all of the information necessary for the CGC to display rich metadata for all files ready for cloud analysis in the cloud"
+      paragraph: "One of the primary goals of the ICDC data portal is to make data findable, accessible, interoperable, and reusable (FAIR) to lower the barriers for researchers to go from cohort discovery to a meaningful analysis. Researchers can find cases and build cohorts in the ICDC and then send the associated files required for analysis to the "My Files" Cart page where the list of files is compiled into a File Manifest. The File Manifest is simply a csv file consisting of rich metadata and Data Repository Service (DRS) Unique Resource Identifiers (URIs) for every file object listed. Using the new "Export to the CGC" button enables the simple and immediate transfer of a File Manifest to the CGC with only a single click. The CGC uses information in the File Manifest to fetch the file from a DRS server and storage buckets located in the cloud. Alternatively, users can download the File Manifest locally and then subsequently upload the File Manifest directly into the CGC to load files into a CGC project.  
     - 
       paragraph: "This Cloud Resource analysis model eliminates the need for researchers to download and store extremely large data sets by allowing them to bring analysis tools to the data in the cloud, instead of the traditional process of bringing the data to the tools on local hardware. The Cloud Resources also provide access to on-demand computational capacity to analyze these data, allow users to run best practice tools and pipelines already implemented, and upload their own data or analysis methods to workspaces."
     - 
@@ -459,7 +500,7 @@
     - 
       paragraph: "As a resource for the public and cancer research, $$[The ICDC GitHub repo](https://github.com/CBIIT/bento-icdc-frontend)$$ is available for research, usage, forking, and pull requests. The codebase is intended for sharing and building frameworks for related initiatives and projects. The ICDC GitHub repo has documentation about how to access the system, including endpoints and recommendations for tools and example queries. Both the project and documentation are currently maintained and updated."
     - 
-      paragraph: "ICDC is based on a Graph database, and features a GraphQL API (Java), and a React front-end (JavaScript). Each tier in the application stack is designed to be modular and adaptable for a variety of use cases and scenarios."
+      paragraph: "ICDC is based on a Graph database, and features a GraphQL API (Java), and a React-based frontend (JavaScript). Each tier in the application stack is designed to be modular and adaptable for a variety of use cases and scenarios."
 
 - 
   page: /support
@@ -467,7 +508,7 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/About_Support.jpeg'
   content: 
     - 
-      paragraph: "Direct questions, comments, or concerns to $$@ICDCHelpDesk@mail.nih.gov@$$."
+      paragraph: "Please direct questions, comments, or concerns to $$@ICDCHelpDesk@mail.nih.gov@$$."
 - 
   page: /submit
   title: "Submitting Data"
