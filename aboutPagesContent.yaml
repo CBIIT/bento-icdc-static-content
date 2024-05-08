@@ -273,12 +273,12 @@
                 - Member
                 - NIH/NCI/CCR/COP
 -
-page: /BPSC
+  page: /BPSC
   title: Best Practices Subcommittee 
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_BPSC.jpeg'
   content: 
     - 
-      paragraph: "The Best Practices Subcommittee (BPSC) has the responsibility for examining completed and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will help the broader community in study design and data collection to enhance research to better enable human and canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff, and is supported by FNLCR staff. 
+      paragraph: "The Best Practices Subcommittee (BPSC) has the responsibility for examining completed and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will help the broader community in study design and data collection to enhance research to better enable human and canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff, and is supported by FNLCR staff."
     - 
       paragraph: "The ICDC, which will encompass many data types, is currently focused into three working groups; Imaging, Genomics, and Longitudinal Data Use and Acquistion."
       
@@ -416,7 +416,8 @@ page: /BPSC
                 - "Co-Chair, Genomics WG"
                 - "University of Georgia"
                 # - "Genomics, Immunology"
-                - Genomics, Longitudinal Data Use & Acquistion
+                - "Genomics, Longitudinal Data Use & Acquistion"
+-
   page: /crdc
   title: "Cancer Research Data Commons (CRDC) and Analysis"
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_CRDC.jpeg'
@@ -444,7 +445,7 @@ page: /BPSC
     - 
       paragraph: "Currently the ICDC supports analysis via the Seven Bridges Cancer Genomics Cloud powered by Velsera."
     - 
-      paragraph: "One of the primary goals of the ICDC data portal is to make data findable, accessible, interoperable, and reusable (FAIR) to lower the barriers for researchers to go from cohort discovery to a meaningful analysis. Researchers can find cases and build cohorts in the ICDC and then send the associated files required for analysis to the "My Files" Cart page where the list of files is compiled into a File Manifest. The File Manifest is simply a csv file consisting of rich metadata and Data Repository Service (DRS) Unique Resource Identifiers (URIs) for every file object listed. Using the new "Export to the CGC" button enables the simple and immediate transfer of a File Manifest to the CGC with only a single click. The CGC uses information in the File Manifest to fetch the file from a DRS server and storage buckets located in the cloud. Alternatively, users can download the File Manifest locally and then subsequently upload the File Manifest directly into the CGC to load files into a CGC project.  
+      paragraph: "One of the primary goals of the ICDC data portal is to make data findable, accessible, interoperable, and reusable (FAIR) to lower the barriers for researchers to go from cohort discovery to a meaningful analysis. Researchers can find cases and build cohorts in the ICDC and then send the associated files required for analysis to the My Files Cart page where the list of files is compiled into a File Manifest. The File Manifest is simply a csv file consisting of rich metadata and Data Repository Service (DRS) Unique Resource Identifiers (URIs) for every file object listed. Using the new Export to the CGC button enables the simple and immediate transfer of a File Manifest to the CGC with only a single click. The CGC uses information in the File Manifest to fetch the file from a DRS server and storage buckets located in the cloud. Alternatively, users can download the File Manifest locally and then subsequently upload the File Manifest directly into the CGC to load files into a CGC project."  
     - 
       paragraph: "This Cloud Resource analysis model eliminates the need for researchers to download and store extremely large data sets by allowing them to bring analysis tools to the data in the cloud, instead of the traditional process of bringing the data to the tools on local hardware. The Cloud Resources also provide access to on-demand computational capacity to analyze these data, allow users to run best practice tools and pipelines already implemented, and upload their own data or analysis methods to workspaces."
     - 
