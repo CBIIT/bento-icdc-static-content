@@ -32,7 +32,6 @@
                 - $$[Anne Avery](target:_blank url:https://vetmedbiosci.colostate.edu/directory/member/?id=anne-avery-3106)$$
                 - "Colorado State University"
                 - External
-                - DGAB
                 - "-"
             -
               row:
@@ -280,8 +279,83 @@
     - 
       paragraph: "The Best Practices Subcommittee (BPSC) has the responsibility for examining completed and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will help the broader community in study design and data collection to enhance research to better enable human and canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff, and is supported by FNLCR staff."
     - 
-      paragraph: "The ICDC, which will encompass many data types, is currently focused into three working groups; Imaging, Genomics, and Longitudinal Data Use and Acquistion."
-      
+      table: 
+        - 
+          head: 
+            - name
+            - position
+            - affiliation
+        - 
+          body: 
+            - 
+              row: 
+                - "M. Renee Chambers"
+                - Member
+                - "University of Alabama at Birmingham"
+            - 
+              row: 
+                - "Dawn Duval"
+                - Member
+                - "Colorado State University"
+            - 
+              row: 
+                - "Heather Gardner"
+                - Member
+                - "Translational Genomics Research Institute (TGen)"
+            - 
+              row: 
+                - "Paula Jacobs"
+                - Member
+                - NIH/NCI/DCTD
+            -
+              row:
+                - "Debbie Knapp"
+                - Member
+                - "Purdue University"
+            - 
+              row: 
+                - "Gina Kuffel"
+                - Member
+                - FNLCR
+            - 
+              row: 
+                - "Amy LeBlanc"
+                - Member
+                - NIH/NCI/CCR/COP
+            - 
+              row: 
+                - "Cheryl London"
+                - Member
+                - "Tufts University"
+
+            - 
+              row: 
+                - "Elaine Ostrander"
+                - Member
+                - NIH/NHGRI/CGCGB
+            - 
+              row: 
+                - "Connie Sommers"
+                - Member
+                - NIH/NCI/DCTD/DTP/IOB
+            -
+              row:
+                - "Jeff Trent"
+                - BPSC Chair
+                - TGEN
+            - 
+              row: 
+                - "Shaying Zhao"
+                - "Co-Chair, Genomics WG"
+                - "University of Georgia"
+-
+  page: /Working Groups
+  title: Working Groups 
+  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_BPSC.jpeg'
+  
+  content:    
+    - 
+      paragraph: "The ICDC, which will encompass many data types, is currently focused into three working groups; Imaging, Genomics, and Longitudinal Data Use and Acquistion." 
     - 
       paragraph: "$$#WORKING GROUP GOALS:#$$"
     - 
@@ -313,13 +387,14 @@
             - 
               row: 
                 - "Matthew Breen"
-                - "Chair, LDAUWG"
+                - "LDAUWG Chair"
                 - "North Carolina State University"
                 - "Longitudinal Data Use & Acquistion"
             
             - 
               row: 
                 - "M. Renee Chambers"
+                - Member
                 # - "Chair, Clin/Path WG"
                 - "University of Alabama at Birmingham"
                 # - Clinical/Pathology
@@ -352,7 +427,7 @@
             - 
               row: 
                 - "Paula Jacobs"
-                - "Co-Chair, Imaging WG"
+                - "Imaging WG Co-Chair"
                 - NIH/NCI/DCTD
                 - Imaging, Longitudinal Data Use & Acquistion
             - 
@@ -370,7 +445,7 @@
             - 
               row: 
                 - "Amy LeBlanc"
-                - "Co-Chair, Imaging WG"
+                - "Imaging WG Co-Chair"
                 - NIH/NCI/CCR/COP
                 - Imaging, Longitudinal Data Use & Acquistion
             # - 
@@ -413,7 +488,7 @@
             - 
               row: 
                 - "Shaying Zhao"
-                - "Co-Chair, Genomics WG"
+                - "Genomics WG Co-Chair"
                 - "University of Georgia"
                 # - "Genomics, Immunology"
                 - "Genomics, Longitudinal Data Use & Acquistion"
