@@ -274,7 +274,7 @@
 -
   page: /BPSC
   title: Best Practices Subcommittee 
-  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_BPSC.jpeg'
+  primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/BPSC-publication.png'
   content: 
     - 
       paragraph: "The Best Practices Subcommittee (BPSC) has the responsibility for examining completed and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will help the broader community in study design and data collection to enhance research to better enable human and canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff, and is supported by FNLCR staff."
