@@ -5,9 +5,9 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_Purpose.jpeg'
   content: 
     - 
-      paragraph: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) charged the Frederick National Laboratory for Cancer Research (FNLCR) to build the Integrated Canine Data Commons (ICDC), a cloud-based repository of spontaneously-arising canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects. The data is harmonized into an integrated data model and then made available to the research community. The ICDC is part of the $$[Cancer Research Data Commons (CRDC)](https://datacommons.cancer.gov/)$$, an initiative from NCI’s Center for Biomedical Informatics and Information Technology (CBIIT). Bioinformatic analysis of the ICDC data is accomplished using the CRDC’s $$[Cloud Resources](target:_self url:/#/crdc type:0)$$."
+      paragraph: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) tasked the Frederick National Laboratory for Cancer Research (FNLCR) with building the Integrated Canine Data Commons (ICDC), a cloud-based repository of spontaneously-arising canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects. The data is harmonized into an integrated data model and then made available to the research community. The ICDC is part of the $$[Cancer Research Data Commons (CRDC)](https://datacommons.cancer.gov/)$$, an initiative from NCI’s Center for Biomedical Informatics and Information Technology (CBIIT). Bioinformatic analysis of the ICDC data is accomplished using the CRDC’s $$[Cloud Resources](target:_self url:/#/crdc type:0)$$."
     - 
-      paragraph: "Within the FNLCR, the Bioinformatics and Computational Science (BACS) Directorate is focused on software engineering and data science. The Applied and Developmental Research Directorate (ADRD) is managing the ICDC Steering Committee and providing one of the data sources for the ICDC. The ICDC Steering Committee is comprised of external members, FNLCR and NCI staff that provides guidance to DCTD on the ICDC."
+      paragraph: "The FNLCR Bioinformatics and Computational Science (BACS) Directorate has a focus on software engineering and data science and is responsible for devlopment of the ICDC web application and overall management of the project and The Applied and Developmental Research Directorate (ADRD) has a focus on clinical and biological monitoring and assay development and manages the ICDC Steering Committee and provides one of the data sources for the ICDC. The ICDC Steering Committee is comprised of external members, FNLCR and NCI staff that provide guidance to DCTD on the ICDC."
 - 
   page: /steeringCommittee
   title: "Steering Committee"
@@ -228,7 +228,7 @@
                 - FNLCR
             - 
               row: 
-                - "Phillip Musk"
+                - "Philip Musk"
                 - Member
                 - FNLCR
             -
@@ -277,9 +277,9 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/BPSC-publication.png'
   content: 
     - 
-      paragraph: "The Best Practices Subcommittee (BPSC) has the responsibility for examining completed and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will help the broader community in study design and data collection to enhance research to better enable human and canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff, and is supported by FNLCR staff."
+      paragraph: "The Best Practices Subcommittee (BPSC) is responsible for examining completed and planned studies to identify and recommend best practices that the Integrated Canine Data Commons (ICDC) will implement to streamline and harmonize data collection, standardize data formats and platforms, and manage and annotate data (especially clinical data). Moreover, these recommendations will help the broader community in study design and data collection to enhance research to better enable human and canine data comparison. The BPSC is composed of 8 external members, 5 NCI staff, 1 NHGRI staff, and is supported by FNLCR staff."
     -
-      paragraph: "A manuscript from the ICDC BPSC was published by the Journal of Veterinary and Comparative Oncology on October 1, 2023, titled Leading the pack, Best practices in comparative canine cancer genomics to inform human oncology. $$[Go to publication](target:_blank url:https://doi.org/10.1111/vco.12935)$$"
+      paragraph: "A manuscript from the ICDC BPSC was published by the Journal of Veterinary and Comparative Oncology on October 1, 2023, titled $$[Leading the pack, Best practices in comparative canine cancer genomics to inform human oncology.](target:_blank url:https://doi.org/10.1111/vco.12935)$$"
     - 
       table: 
         - 
@@ -507,7 +507,7 @@
     - 
       paragraph: "The CRDC has three Cloud Resources ($$[Seven Bridges Cancer Genomics Cloud powered by Velsera ](http://www.cancergenomicscloud.org/)$$,$$[ISB Cancer Genomics Cloud ](https://isb-cgc.appspot.com/)$$, $$[Broad Firecloud ](https://firecloud.terra.bio/)$$), each providing analysis platforms for the community to use when working with data from the CRDC ecosystem."
     - 
-      paragraph: "These cloud-based platforms eliminate the need for researchers to download and store extremely large data sets by enabling the ability to bring analysis tools to the data in the cloud, instead of the traditional process of bringing the data to the tools on local hardware. The Cloud Resources also provide access to on-demand computational capacity to analyze these data. The Cloud Resources allow users to run best practice tools and pipelines already implemented or to upload their own data or analysis methods to workspaces."
+      paragraph: "These cloud-based platforms eliminate the need for researchers to download and store extremely large files by bringing datasets and powerful analysis tools together within the cloud. The Cloud Resources also provide access to on-demand computational capacity for conducting analysis using publicly available best practice tools and pipelines or building new tools and workflows."
     - 
       paragraph: "All three Cloud Resources provide support for data access through a web-based user interface in addition to programmatic access to analytic tools and workflows, and the capability of sharing results with collaborators. Each Cloud Resource is continually developing new functionality to improve the user experience and add new tools for researchers."
     - 
@@ -565,7 +565,7 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_Developer.jpeg'
   content: 
     - 
-      paragraph: "The ICDC is based on a graph database and features a read-only GRAPHQL API based in Java that is available for public consumption, and a React-based frontend based in JavaScript. Each tier in the application stack is designed to be modular and adaptable for a variety of use cases. Users do not require authentication to the system and all data are public."
+      paragraph: "The ICDC has a graph database featuring a read-only GraphQL API based in Java that is available for public consumption and a frontend built from the JavaScript based React library. Each tier in the application stack is designed to be modular and adaptable for a variety of use cases. Users do not require authentication to the system and all data are public."
     -
       paragraph: $$[https://caninecommons.cancer.gov/v1/graphql/](https://caninecommons.cancer.gov/v1/graphql/)$$
     - 
@@ -647,7 +647,7 @@
     - 
       paragraph: "The ICDC functions best for the research community when the data is integrated. Once a project is accepted into the ICDC, the ICDC data team will work with the submitter to review the data looking at data structure, data values, data quality as well as identifying any standards that were utilized. Based on that review, a plan for how to submit the data will be agreed upon between ICDC and the submitter."
     -
-      paragraph: "$$#Citing ICDC in Publications#$$"
+      paragraph: "$$#Citing the ICDC in Publications#$$"
     - 
       paragraph: "To cite the ICDC as a resource, reference the data as being available via the NCI’s Integrated Canine Data Commons (ICDC) at $$[https://caninecommons.cancer.gov ](https://caninecommons.cancer.gov )$$ "
     - 
@@ -660,5 +660,5 @@
     - 
       paragraph: "$$#Embargo Period for Datasets#$$"
     - 
-      paragraph: "Certain datasets made available in ICDC will have an embargo period as an associated publication is in the process of being accepted and or published.  An embargo is the release of limited metadata on the ICDC portal until an approval is obtained from the respective data submitter. There are several visual icons intended to flag studies that have an active embargo to inform users that the data will be released to ICDC in the near future."
+      paragraph: "Certain datasets made available in the ICDC will have an embargo period during which an associated publication is in the process of being accepted and or published.  An embargo is the release of limited metadata on the ICDC portal until an approval is obtained from the respective data submitter. There are several visual icons intended to flag studies that have an active embargo to inform users that the data will be released to ICDC in the near future."
 -
