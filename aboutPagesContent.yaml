@@ -125,7 +125,7 @@
                 - "-"
             - 
               row: 
-                - $$["Philip Musk"](target:_blank url:https://www.linkedin.com/in/philipmusk/)$$
+                - $$[Philip Musk](target:_blank url:https://www.linkedin.com/in/philipmusk/)$$
                 - FNLCR
                 - FNL
                 - DGAB
@@ -344,7 +344,7 @@
               row:
                 - "Jeff Trent"
                 - BPSC Chair
-                - TGEN
+                - Translational Genomics Research Institue (TGen)
             - 
               row: 
                 - "Shaying Zhao"
