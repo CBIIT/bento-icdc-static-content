@@ -5,7 +5,7 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/Photo-About_Purpose.jpeg'
   content: 
     - 
-      paragraph: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) tasked the Frederick National Laboratory for Cancer Research (FNLCR) with building the Integrated Canine Data Commons (ICDC), a cloud-based repository of spontaneously-arising canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects. The data is harmonized into an integrated data model and then made available to the research community. The ICDC is part of the $$[Cancer Research Data Commons (CRDC)](https://datacommons.cancer.gov/)$$, an initiative from NCI’s Center for Biomedical Informatics and Information Technology (CBIIT). Bioinformatic analysis of the ICDC data is accomplished using the CRDC’s $$[Cloud Resources](target:_self url:/#/crdc type:0)$$."
+      paragraph: "NCI's Division of Cancer Treatment and Diagnosis (DCTD) tasked the Frederick National Laboratory for Cancer Research (FNLCR) with building the Integrated Canine Data Commons (ICDC), a cloud-based repository of spontaneously-arising canine cancer data. ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer. The data in the ICDC is sourced from multiple different programs and projects; all focused on canine subjects. The data is harmonized into an integrated data model and then made available to the research community. The ICDC is part of the $$[Cancer Research Data Commons](https://datacommons.cancer.gov/)$$, an initiative from NCI’s Center for Biomedical Informatics and Information Technology (CBIIT). Bioinformatic analysis of the ICDC data is accomplished using the CRDC’s $$[Cloud Resources](target:_self url:/#/crdc type:0)$$."
     - 
       paragraph: "The FNLCR Bioinformatics and Computational Science (BACS) Directorate has a focus on software engineering and data science and is responsible for devlopment of the ICDC web application and overall management of the project and The Applied and Developmental Research Directorate (ADRD) has a focus on clinical and biological monitoring and assay development and manages the ICDC Steering Committee and provides one of the data sources for the ICDC. The ICDC Steering Committee is comprised of external members, FNLCR and NCI staff that provide guidance to DCTD on the ICDC."
 - 
@@ -357,7 +357,7 @@
   
   content:    
     - 
-      paragraph: "The ICDC encompasses many data types and is currently focused into three working groups; Imaging, Genomics, and Longitudinal Data Use and Acquistion." 
+      paragraph: "The ICDC encompasses many data types and is currently focused into three working groups; Imaging, Genomics, and Longitudinal Data Use and Acquisition." 
     - 
       paragraph: "$$#Working Group Goals#$$"
     - 
@@ -602,7 +602,7 @@
     - 
       paragraph: "$$#Data Submission Requests and Approvals#$$"
     -
-      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers who have data that will contribute to this mission and who are willing to share that data via the ICDC are encouraged to make a data submission request through the $${title:Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$. Please email $$@ICDCHelpDesk@mail.nih.gov@$$ for specific instructions. All proposed data submissions are reviewed by the Data Governance Advisory Board $$[(DGAB)](target:_self url:/#/DGAB)$$ to assess their scientific value and suitability for inclusion. Once any given study has been fully on-boarded, all data submitted will become publicly available."
+      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers who have data that will contribute to this mission and who are willing to share that data via the ICDC are encouraged to make a data submission request through the $${title:Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$. Please email $$@ncicrdc@mail.nih.gov@$$ for specific instructions. All proposed data submissions are reviewed by the Data Governance Advisory Board $$[(DGAB)](target:_self url:/#/DGAB)$$ to assess their scientific value and suitability for inclusion. Once any given study has been fully on-boarded, all data submitted will become publicly available."
     -  
       paragraph: "To initiate a Data Submission Request, please use this $${title:Template,link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_Data_Submission_Request_Template.docx}$$"
     - 
