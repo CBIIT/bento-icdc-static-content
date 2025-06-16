@@ -593,7 +593,7 @@
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/About_Support.jpeg'
   content: 
     - 
-      paragraph: "Please direct questions, comments, or concerns to $$@NCICRDC@mail.nih.gov@mail.nih.gov@$$."
+      paragraph: "Please direct questions, comments, or concerns to $$@NCICRDC@mail.nih.gov@$$."
 - 
   page: /submit
   title: "Submitting Data"
@@ -602,7 +602,7 @@
     - 
       paragraph: "$$#Data Submission Requests and Approvals#$$"
     -
-      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers who have data that will contribute to this mission and who are willing to share that data via the ICDC are encouraged to make a data submission request through the $${title:Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$. Please email $$@NCICRDC@mail.nih.gov@mail.nih.gov@$$ for specific instructions. All proposed data submissions are reviewed by the Data Governance Advisory Board $$[(DGAB)](target:_self url:/#/DGAB)$$ to assess their scientific value and suitability for inclusion. Once any given study has been fully on-boarded, all data submitted will become publicly available."
+      paragraph: "The Integrated Canine Data Commons (ICDC) was established to further research on human cancers by enabling comparative analysis with canine malignancies. Researchers who have data that will contribute to this mission and who are willing to share that data via the ICDC are encouraged to make a data submission request through the $${title:Submission Request Process [PDF],link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_DGAB_Guidelines_v1.3.pdf}$$. Please email $$@NCICRDC@mail.nih.gov@$$ for specific instructions. All proposed data submissions are reviewed by the Data Governance Advisory Board $$[(DGAB)](target:_self url:/#/DGAB)$$ to assess their scientific value and suitability for inclusion. Once any given study has been fully on-boarded, all data submitted will become publicly available."
     -  
       paragraph: "To initiate a Data Submission Request, please use this $${title:Template,link:https://github.com/CBIIT/icdc-codebase/raw/master/src/main/frontend/src/content/files/ICDC_Data_Submission_Request_Template.docx}$$"
     - 
@@ -637,7 +637,7 @@
     - 
       paragraph: "$$#Intellectual Property Policy Statement#$$"
     - 
-      paragraph: "The ICDC discourages use of the data to acquire ownership interest in pre-competitive technologies necessary for the development of the field (“research tools”).  The ICDC places no restrictions on the use of data to develop downstream technologies that may lead to discoveries that address public needs, especially therapeutics.  For further information about the ICDC Intellectual Property policy, please contact us at $$@NCICRDC@mail.nih.gov@mail.nih.gov@$$"
+      paragraph: "The ICDC discourages use of the data to acquire ownership interest in pre-competitive technologies necessary for the development of the field (“research tools”).  The ICDC places no restrictions on the use of data to develop downstream technologies that may lead to discoveries that address public needs, especially therapeutics.  For further information about the ICDC Intellectual Property policy, please contact us at $$@NCICRDC@mail.nih.gov@$$"
     - 
       paragraph: "$$#FAIR Data#$$"
     - 
