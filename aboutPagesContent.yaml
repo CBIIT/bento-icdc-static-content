@@ -637,7 +637,7 @@
     - 
       paragraph: "$$#Intellectual Property Policy Statement#$$"
     - 
-      paragraph: "The ICDC discourages use of the data to acquire ownership interest in pre-competitive technologies necessary for the development of the field (“research tools”).  The ICDC places no restrictions on the use of data to develop downstream technologies that may lead to discoveries that address public needs, especially therapeutics.  For further information about the ICDC Intellectual Property policy, please contact us at $$@NCICRDC@mail.nih.gov@$$"
+      paragraph: "The ICDC discourages use of the data to acquire ownership interest in pre-competitive technologies necessary for the development of the field (“research tools”).  The ICDC places no restrictions on the use of data to develop downstream technologies that may lead to discoveries that address public needs, especially therapeutics.  For further information about the ICDC Intellectual Property policy, please contact us at $$@[NCICRDC@mail.nih.gov](mailto:NCICRDC@mail.nih.gov)@$$"
     - 
       paragraph: "$$#FAIR Data#$$"
     - 
