@@ -76,6 +76,10 @@ images:
       https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
     label: Samantha
     caption:
+  - img: >-
+      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Clover.jpg?raw=true
+    label: Samantha
+    caption:
 content:
   - paragraph: >-
       The ICDC team released v.4.0.0 on February 2, 2024. This release introduces a single click export button of ICDC files into the Cancer Genomics Cloud (CGC ), the ability to search for any term across the application, the ability to find specific case IDs, a new "File Type" widget lending visibility into the genomic, transcriptomic, and study-level files that are available across ICDC studies and cases at a glance, and a Dynamic Query Bar that reflects every filter applied and each Case ID entered from the Explore Dashboard in real time.
