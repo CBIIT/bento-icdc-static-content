@@ -41,83 +41,84 @@
     callToActionText: 'EXPLORE'
     callToActionLink: '/explore'
   tabs:
-   - index: 0
-  label: 'Human Relevance'
-  value: 'humanRelevance'
-  icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-home-icon.svg'
-  content:
-    callToActionTitle: 'Why Canine Cancer data? ICDC studies highlight  the impact of canine research on human cancer research'
-    callToActionDescription: 'Canine cancer research plays a pivotal role in advancing human cancer research. Explore how pet dogs with spontaneous tumors offer unique opportunities for the cancer research community to gain significant insights into understanding cancer biology, developing new treatments, mitigating toxicities, and improving outcomes for both canines and humans.'
-    callToActionButtonText: 'View Canine Studies'
-    callToActionLink: '/explore'
-    externalLink: false
-    image: ''
-
-- index: 1
-  label: 'Explore the ICDC'
-  value: 'explore'
-  icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Explore.Active.png?raw=true'
-  content:
-    callToActionTitle: 'Integrated Canine Data Commons'
-    callToActionDescription: 'Exploring, analyzing, and understanding the biological relationships between human and canine cancers.'
-    callToActionButtonText: 'EXPLORE the ICDC'
-    callToActionLink: '/explore'
-    externalLink: false
-    image: ''
-
-- index: 2
-  label: 'Data Model Navigator'
-  value: 'dictionary'
-  icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.DataDictionary.Open.png?raw=true'
-  content:
-    callToActionTitle: 'Navigate the Data Model'
-    callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
-    callToActionButtonText: 'DATA MODEL NAVIGATOR'
-    callToActionLink: '/icdc-data-model'
-    externalLink: false
-    image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
-
-- index: 3
-  label: 'Studies'
-  value: 'studies'
-  icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Studies.Active.png?raw=true'
-  content:
-    callToActionTitle: 'ICDC Studies'
-    callToActionDescription: 'Browse the ICDC Studies with detailed overviews, sample profiles associated with publications, and additional information.'
-    callToActionButtonText: 'STUDIES LISTING'
-    callToActionLink: '/studies'
-    externalLink: false
-    image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/studies.png?raw=true'
-
-- index: 4
-  label: 'ICDC Spotlight'
-  value: 'icdc'
-  icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Spotlight.Active.png?raw=true'
-  content:
-    callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
-    callToActionDescription: "Featured on 60 MINUTES with Anderson Cooper."
-    callToActionButtonText: 'VIEW THE VIDEO'
-    externalLink: true
-    callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
-    image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
-    template: 'imageWithCaption'
-    twitter:
-      tweetId: '1493638757001711620'
-    youtube:
-      url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
-    imageWithCaption:
-      img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
-      alt: 'ICDC researchers featured on 60 MINUTES'
-      caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
-    noCaptionImage:
-      img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
-      alt: 'Dog at vet'
-    smallIcon:
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
-      alt: 'icon alt'
-    largeIcon:
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
-      alt: 'icon alt'
+    -
+      index: 0
+      label: 'Human Relevance'
+      value: 'humanRelevance'
+      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-home-icon.svg'
+      content:
+        callToActionTitle: 'Why Canine Cancer data? ICDC studies highlight  the impact of canine research on human cancer research'
+        callToActionDescription: 'Canine cancer research plays a pivotal role in advancing human cancer research. Explore how pet dogs with spontaneous tumors offer unique opportunities for the cancer research community to gain significant insights into understanding cancer biology, developing new treatments, mitigating toxicities, and improving outcomes for both canines and humans.'
+        callToActionButtonText: 'View Canine Studies'
+        callToActionLink: '/explore'
+        externalLink: false
+        image: ''
+    -
+      index: 1
+      label: 'Explore the ICDC'
+      value: 'explore'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Explore.Active.png?raw=true'
+      content:
+        callToActionTitle: 'Integrated Canine Data Commons'
+        callToActionDescription: 'Exploring, analyzing, and understanding the biological relationships between human and canine cancers.'
+        callToActionButtonText: 'EXPLORE the ICDC'
+        callToActionLink: '/explore'
+        externalLink: false
+        image: ''
+    -
+      index: 2
+      label: 'Data Model Navigator'
+      value: 'dictionary'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.DataDictionary.Open.png?raw=true'
+      content:
+        callToActionTitle: 'Navigate the Data Model'
+        callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
+        callToActionButtonText: 'DATA MODEL NAVIGATOR'
+        callToActionLink: '/icdc-data-model'
+        externalLink: false
+        image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
+    -
+      index: 3
+      label: 'Studies'
+      value: 'studies'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Studies.Active.png?raw=true'
+      content:
+        callToActionTitle: 'ICDC Studies'
+        callToActionDescription: 'Browse the ICDC Studies with detailed overviews, sample profiles associated with publications, and additional information.'
+        callToActionButtonText: 'STUDIES LISTING'
+        callToActionLink: '/studies'
+        externalLink: false
+        image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/studies.png?raw=true'
+    -
+      index: 4
+      label: 'ICDC Spotlight'
+      value: 'icdc'
+      icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Spotlight.Active.png?raw=true'
+      content:
+        callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
+        callToActionDescription: "Featured on 60 MINUTES with Anderson Cooper."
+        callToActionButtonText: 'VIEW THE VIDEO'
+        externalLink: true
+        callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
+        image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
+        template: 'imageWithCaption'
+        twitter:
+          tweetId: '1493638757001711620'
+        youtube:
+          url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
+        imageWithCaption:
+          img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
+          alt: 'ICDC researchers featured on 60 MINUTES'
+          caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
+        noCaptionImage:
+          img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
+          alt: 'Dog at vet'
+        smallIcon:
+          img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
+          alt: 'icon alt'
+        largeIcon:
+          img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
+          alt: 'icon alt'
   widgets:
     -
       alt: 'ICDC submit'
