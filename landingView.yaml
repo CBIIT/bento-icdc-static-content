@@ -89,7 +89,10 @@
         callToActionButtonText: 'View ICDC Studies'
         callToActionLink: '/icdc-data-model'
         externalLink: false
-        image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
+        image: ''
+        template: 'youtube'
+        youtube:
+          url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
     # -
     #   index: 3
     #   label: 'Studies'
