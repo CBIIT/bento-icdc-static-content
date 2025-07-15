@@ -52,7 +52,7 @@
         callToActionButtonText: 'View Canine Studies'
         callToActionLink: '/explore'
         externalLink: false
-        image: ''
+        image: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-tab-image.svg'
     -
       index: 1
       label: 'Explore the ICDC'
