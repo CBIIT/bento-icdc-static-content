@@ -59,9 +59,9 @@
       value: 'explore'
       icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-explore-icdc.svg'
       content:
-        callToActionTitle: 'Integrated Canine Data Commons'
-        callToActionDescription: 'Exploring, analyzing, and understanding the biological relationships between human and canine cancers.'
-        callToActionButtonText: 'EXPLORE the ICDC'
+        callToActionTitle: 'Using Canine Cancers to drive understanding of Human Cancers'
+        callToActionDescription: 'ICDC enables users to explore, analyze, and understand the biological relationships between human and canine cancers.'
+        callToActionButtonText: 'Explore ICDC Data '
         callToActionLink: '/explore'
         externalLink: false
         image: ''
