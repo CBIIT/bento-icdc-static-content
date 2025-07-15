@@ -71,9 +71,9 @@
       value: 'dictionary'
       icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/refs/heads/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-dmn.svg'
       content:
-        callToActionTitle: 'Navigate the Data Model'
+        callToActionTitle: 'The Data Model Navigator'
         callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
-        callToActionButtonText: 'DATA MODEL NAVIGATOR'
+        callToActionButtonText: 'Navigate the ICDC Data Model'
         callToActionLink: '/icdc-data-model'
         externalLink: false
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
@@ -84,9 +84,9 @@
       value: ''
       icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-videos.svg'
       content:
-        callToActionTitle: 'Navigate the Data Model'
-        callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
-        callToActionButtonText: 'DATA MODEL NAVIGATOR'
+        callToActionTitle: 'Why Canine Cancer data? ICDC studies highlight the impact of canine research on human cancer research'
+        callToActionDescription: 'Canine cancer research plays a pivotal role in advancing human cancer research. Explore how pet dogs with spontaneous tumors offer unique opportunities for the cancer research community to gain significant insights into understanding cancer biology, developing new treatments, mitigating toxicities, and improving outcomes for both canines and humans.'
+        callToActionButtonText: 'View ICDC Studies'
         callToActionLink: '/icdc-data-model'
         externalLink: false
         image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/carousel.datadic.v2.png?raw=true'
