@@ -93,52 +93,10 @@
         template: 'youtube'
         youtube:
           url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
-    # -
-    #   index: 3
-    #   label: 'Studies'
-    #   value: 'studies'
-    #   icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Studies.Active.png?raw=true'
-    #   content:
-    #     callToActionTitle: 'ICDC Studies'
-    #     callToActionDescription: 'Browse the ICDC Studies with detailed overviews, sample profiles associated with publications, and additional information.'
-    #     callToActionButtonText: 'STUDIES LISTING'
-    #     callToActionLink: '/studies'
-    #     externalLink: false
-    #     image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/studies.png?raw=true'
-    # -
-    #   index: 4
-    #   label: 'ICDC Spotlight'
-    #   value: 'icdc'
-    #   icon: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Button.Spotlight.Active.png?raw=true'
-    #   content:
-    #     callToActionTitle: 'Spotlight: Trial cancer treatments for dogs could also lead to breakthroughs for humans'
-    #     callToActionDescription: "Featured on 60 MINUTES with Anderson Cooper."
-    #     callToActionButtonText: 'VIEW THE VIDEO'
-    #     externalLink: true
-    #     callToActionLink: 'https://www.cbsnews.com/news/dog-cancer-trials-comparative-oncology-60-minutes-2022-11-27/'
-    #     image: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/png/Spotlight_Studies.png?raw=true'
-    #     template: 'imageWithCaption'
-    #     twitter:
-    #       tweetId: '1493638757001711620'
-    #     youtube:
-    #       url: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
-    #     imageWithCaption:
-    #       img: 'https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/60-minutes.png?raw=true'
-    #       alt: 'ICDC researchers featured on 60 MINUTES'
-    #       caption: 'NIH researchers discuss canine comparative oncology with Anderson Cooper.'
-    #     noCaptionImage:
-    #       img: 'https://github.com/CBIIT/datacommons-assets/blob/main/icdc/images/jpgs/DogAtVet.jpg?raw=true'
-    #       alt: 'Dog at vet'
-    #     smallIcon:
-    #       img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
-    #       alt: 'icon alt'
-    #     largeIcon:
-    #       img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/DocumentDownloadBAM.svg'
-    #       alt: 'icon alt'
   widgets:
     -
       alt: 'ICDC submit'
-      img: 'submitData'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/png/home-page-submit-data-widget-card-img.png'
       titleText: 'Submit Data'
       descriptionText: 'Interested in contributing data to the ICDC?'
       callToActionText: 'READ MORE'
@@ -146,7 +104,7 @@
       externalLink: false
     -
       alt: 'ICDC Programs'
-      img: 'Programs'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/png/home-page-program-widget-card-img.png'
       titleText: 'Programs'
       descriptionText: 'Discover programs within the ICDC'
       callToActionText: 'Learn more about various ICDC Programs'
@@ -154,7 +112,7 @@
       externalLink: false
     -
       alt: 'About ICDC'
-      img: 'aboutICDC'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/png/home-page-about-icdc-widget-card-img.png'
       titleText: 'About the ICDC'
       descriptionText: 'Comparative oncology research and more'
       callToActionText: 'READ MORE'
@@ -163,7 +121,7 @@
     -
       alt: 'ICDC Spotlight'
       img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/landingPage/ICDC_News.png'
-      titleText: 'ICDC News'
+      titleText: 'ICDC Spotlight'
       descriptionText: 'Updates and announcements'
       callToActionText: 'EXPLORE'
       callToActionLink: '/news'
