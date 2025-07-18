@@ -104,7 +104,7 @@
       externalLink: false
     -
       alt: 'ICDC Programs'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/png/home-page-program-widget-card-img.png'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/home-page-programs-widget-card.svg'
       titleText: 'Programs'
       descriptionText: 'Discover programs within the ICDC'
       callToActionText: 'Learn more about various ICDC Programs'
@@ -112,7 +112,7 @@
       externalLink: false
     -
       alt: 'About ICDC'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/png/home-page-about-icdc-widget-card-img.png'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/home-page-about-icdc-widget-card.svg'
       titleText: 'About the ICDC'
       descriptionText: 'Comparative oncology research and more'
       callToActionText: 'READ MORE'
@@ -120,7 +120,7 @@
       externalLink: false
     -
       alt: 'ICDC Spotlight'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/landingPage/ICDC_News.png'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/home-page-spotlight-widget-card.svg'
       titleText: 'ICDC Spotlight'
       descriptionText: 'Updates and announcements'
       callToActionText: 'EXPLORE'
