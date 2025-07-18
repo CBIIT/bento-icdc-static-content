@@ -45,19 +45,19 @@
       index: 0
       label: 'Human Relevance'
       value: 'humanRelevance'
-      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-home-icon.svg'
+      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/human-rel-home-icon.svg'
       content:
         callToActionTitle: 'Why Canine Cancer data? ICDC studies highlight  the impact of canine research on human cancer research'
         callToActionDescription: 'Canine cancer research plays a pivotal role in advancing human cancer research. Explore how pet dogs with spontaneous tumors offer unique opportunities for the cancer research community to gain significant insights into understanding cancer biology, developing new treatments, mitigating toxicities, and improving outcomes for both canines and humans.'
         callToActionButtonText: 'Read More'
         callToActionLink: '/human-relevance'
         externalLink: false
-        image: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-tab-image.svg'
+        image: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/human-rel-tab-image.svg'
     -
       index: 1
       label: 'Explore the ICDC'
       value: 'explore'
-      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-explore-icdc.svg'
+      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/human-rel-explore-icdc.svg'
       content:
         callToActionTitle: 'Using Canine Cancers to drive understanding of Human Cancers'
         callToActionDescription: 'ICDC enables users to explore, analyze, and understand the biological relationships between human and canine cancers.'
@@ -69,7 +69,7 @@
       index: 2
       label: 'Data Model Navigator'
       value: 'dictionary'
-      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/refs/heads/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-dmn.svg'
+      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/refs/heads/ty/main/icdc/images/svgs/human-rel-dmn.svg'
       content:
         callToActionTitle: 'The Data Model Navigator'
         callToActionDescription: 'The ICDC data model provides a visual representation of how all the constituent nodes and values are arranged relative to each other.'
@@ -82,7 +82,7 @@
       index: 3
       label: 'Videos'
       value: ''
-      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/human-rel-videos.svg'
+      icon: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/human-rel-videos.svg'
       content:
         callToActionTitle: 'Why Canine Cancer data? ICDC studies highlight the impact of canine research on human cancer research'
         callToActionDescription: 'Canine cancer research plays a pivotal role in advancing human cancer research. Explore how pet dogs with spontaneous tumors offer unique opportunities for the cancer research community to gain significant insights into understanding cancer biology, developing new treatments, mitigating toxicities, and improving outcomes for both canines and humans.'
@@ -96,7 +96,7 @@
   widgets:
     -
       alt: 'ICDC submit'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/png/home-page-submit-data-widget-card-img.png'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/png/home-page-submit-data-widget-card-img.png'
       titleText: 'Submit Data'
       descriptionText: 'Interested in contributing data to the ICDC?'
       callToActionText: 'READ MORE'
@@ -104,7 +104,7 @@
       externalLink: false
     -
       alt: 'ICDC Programs'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/home-page-programs-widget-card.svg'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/home-page-programs-widget-card.svg'
       titleText: 'Programs'
       descriptionText: 'Discover programs within the ICDC'
       callToActionText: 'Learn more about various ICDC Programs'
@@ -112,7 +112,7 @@
       externalLink: false
     -
       alt: 'About ICDC'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/home-page-about-icdc-widget-card.svg'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/home-page-about-icdc-widget-card.svg'
       titleText: 'About the ICDC'
       descriptionText: 'Comparative oncology research and more'
       callToActionText: 'READ MORE'
@@ -120,7 +120,7 @@
       externalLink: false
     -
       alt: 'ICDC Spotlight'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/add-human-rel-home-page-icon/icdc/images/svgs/home-page-spotlight-widget-card.svg'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/home-page-spotlight-widget-card.svg'
       titleText: 'ICDC Spotlight'
       descriptionText: 'Updates and announcements'
       callToActionText: 'EXPLORE'
