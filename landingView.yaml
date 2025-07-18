@@ -161,7 +161,7 @@
       callToActionLink: '/purpose'
       externalLink: false
     -
-      alt: 'ICDC News'
+      alt: 'ICDC Spotlight'
       img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/landingPage/ICDC_News.png'
       titleText: 'ICDC News'
       descriptionText: 'Updates and announcements'
