@@ -112,7 +112,7 @@
       externalLink: false
     -
       alt: 'About ICDC'
-      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/ty/main/icdc/images/svgs/home-page-about-icdc-widget-card.svg'
+      img: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/home-page-about-icdc-widget-card.svg'
       titleText: 'About the ICDC'
       descriptionText: 'Comparative oncology research and more'
       callToActionText: 'READ MORE'
