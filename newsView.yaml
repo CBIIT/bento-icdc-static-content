@@ -32,6 +32,9 @@ youtube:
       label: The Cancer Research Data Commons (CRDC)
       alt: ''
       description: ''
+    - vid: 'https://www.youtube.com/watch?v=8wWeaGKT3Ak'
+      label: 60 Minutes Spotlight on Comparative Oncology
+      alt: ''
 
 twitter:
   tweet:
