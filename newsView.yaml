@@ -89,13 +89,10 @@ images:
     caption:
 content:
   - paragraph: >-
-      The ICDC team released v.4.2.0 on August 29, 2025. This software release introduces human relevance statements for each of the studies within the ICDC. These statements were compiled with the help of the ICDC investigators. Additionally, there is a new dashboard within the Cart page that displays an overview of file metadata for any files that have been added to the cart. Importantly, the content within the Data Submission Guidelines page was updated to introduce the updated submission request and data submission processes through the new CRDC Submission Portal.
+      The ICDC team released v.4.0.0 on February 2, 2024. This release introduces a single click export button of ICDC files into the Cancer Genomics Cloud (CGC ), the ability to search for any term across the application, the ability to find specific case IDs, a new "File Type" widget lending visibility into the genomic, transcriptomic, and study-level files that are available across ICDC studies and cases at a glance, and a Dynamic Query Bar that reflects every filter applied and each Case ID entered from the Explore Dashboard in real time.
     blurb: Software Release 
   - paragraph: >-
-      On September 1, 2025, 3 new studies were released effectively adding a total of 57 cases and 136 files.
-      OSA04 - “Transcriptomic Analysis of Canine Osteosarcoma from a Precision Medicine Perspective Reveals Limitations of Differential Gene Expression Studies”
-      STS01 - "Integrated analysis of canine soft tissue sarcomas identifies recurrent mutations in TP53, KMT genes and PDGFB fusions"
-      PRECINCT01 - "Inhaled recombinant human IL-15 in dogs with naturally occurring pulmonary metastases from osteosarcoma or melanoma: a phase 1 study of clinical activity and correlates of response"
+      ORGANOIDS01 was released on October 16, 2023. The title of this study is “Characterization of healthy, diseased, and cancer canine organoids for applications in personalized medicine and translational research” adding 5 cases and 52 data files for a total increase of ~400 GB of data.
     label: Data Release
     blurb: Data Release
   - paragraph: >-
