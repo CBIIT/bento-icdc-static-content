@@ -50,7 +50,7 @@
         callToActionTitle: 'Why Canine Cancer data? ICDC studies highlight  the impact of canine research on human cancer research'
         callToActionDescription: 'Canine cancer research plays a pivotal role in advancing human cancer research. Explore how pet dogs with spontaneous tumors offer unique opportunities for the cancer research community to gain significant insights into understanding cancer biology, developing new treatments, mitigating toxicities, and improving outcomes for both canines and humans.'
         callToActionButtonText: 'Read More'
-        callToActionLink: '/human-relevance'
+        callToActionLink: '/purpose'
         externalLink: false
         image: 'https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/images/svgs/human-rel-tab-image.svg'
     -
