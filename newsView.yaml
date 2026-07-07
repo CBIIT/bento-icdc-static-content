@@ -1,117 +1,44 @@
-page: /news
-title: News
-primaryContentImage: >-
-  https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/EACR_top_ten.png
-availableSoonImage: >-
-  https://raw.githubusercontent.com/CBIIT/datacommons-assets/master/icdc/aboutPages/Smart-Dog.png
-sourceLink1: ''
 tile1:
-  heading: Updates
-  subHeading: Announcements
+  heading: ICDC Announcements
 tile2:
-  heading: Social Media
-  subHeading1: Featured Content
+  heading: Social Media Featured Content
 tile3:
-  heading: Image Gallery
+  heading: ICDC Pack
 tile4:
-  heading: Videos
   subHeading1: Featured Video
   subHeading2: Other Videos
 youtube:
   main:
-      vid: 'https://www.youtube.com/watch?v=bIWaMKZ9pl4'
-      label: Unleashing Comparative Oncology
-      alt: ''
-      description: ''
+    vid: https://www.youtube.com/watch?v=bIWaMKZ9pl4
+    label: Unleashing Comparative Oncology
+    description: ""
   others:
-    - vid: 'https://www.youtube.com/watch?v=WeCTiGkVNlk'
+    - vid: https://www.youtube.com/watch?v=WeCTiGkVNlk
       label: Urinary Bladder Cancer in Dogs
-      alt: ''
-      description: ''
-    - vid: 'https://www.youtube.com/watch?v=tk1nEX2gnqk'
+    - vid: https://www.youtube.com/watch?v=tk1nEX2gnqk
       label: The Cancer Research Data Commons (CRDC)
-      alt: ''
-      description: ''
-    - vid: 'https://www.youtube.com/watch?v=8wWeaGKT3Ak'
+    - vid: https://www.youtube.com/watch?v=8wWeaGKT3Ak
       label: 60 Minutes Spotlight on Comparative Oncology
-      alt: ''
-
-twitter:
-  tweet:
-    tweetId: '1600520069309640704'
-  timeline:
-    sourceType: profile
-    screenName: ncidatasci
 images:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Bosco.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Bosco.jpg?raw=true
     label: Bosco
-    caption: 
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/DogAtVet.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/DogAtVet.jpg?raw=true
     label: Dog at vet
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Emmie.JPG?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Emmie.JPG?raw=true
     label: Emmie
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Freddie.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Freddie.jpg?raw=true
     label: Freddie
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Gertie.jpeg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Gertie.jpeg?raw=true
     label: Gertie
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Jelly-Bean.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Jelly-Bean.jpg?raw=true
     label: JellyBean
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Krish.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Krish.jpg?raw=true
     label: Krish
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Louie-Teddy.JPG?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Louie-Teddy.JPG?raw=true
     label: Louie and Teddy
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
     label: Samantha
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Clover.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Clover.jpg?raw=true
     label: Clover
-    caption:
-  - img: >-
-      https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Mango.jpg?raw=true
+  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Mango.jpg?raw=true
     label: Mango
-    caption:
-content:
-  - paragraph: >-
-      The ICDC team released v.4.2.0 on August 29, 2025. This software release introduces human relevance statements for each of the studies within the ICDC. These statements were compiled with the help of the ICDC investigators. Additionally, there is a new dashboard within the Cart page that displays an overview of file metadata for any files that have been added to the cart. Importantly, the content within the Data Submission Guidelines page was updated to introduce the updated submission request and data submission processes through the new CRDC Submission Portal.
-    blurb: Software Release 
-  - paragraph: >-
-      On September 1, 2025, 3 new studies were released effectively adding a total of 57 cases and 136 files.
-      OSA04 - “Transcriptomic Analysis of Canine Osteosarcoma from a Precision Medicine Perspective Reveals Limitations of Differential Gene Expression Studies”
-      STS01 - "Integrated analysis of canine soft tissue sarcomas identifies recurrent mutations in TP53, KMT genes and PDGFB fusions"
-      PRECINCT01 - "Inhaled recombinant human IL-15 in dogs with naturally occurring pulmonary metastases from osteosarcoma or melanoma: a phase 1 study of clinical activity and correlates of response"
-    label: Data Release
-    blurb: Data Release
-  - paragraph: >-
-      A manuscript from the ICDC Best Practices Committee was published by the Journal of Veterinary and Comparative Oncology on October 1, 2023, titled "Leading the pack: Best practices in comparative canine cancer genomics to inform human oncology". [https://doi.org/10.1111/vco.12935]
-    label: New Publication
-    blurb: New Publication
-  - paragraph: >-
-      The ICDC team was featured in the October blog from the Center for Biomedical Informatics & Information Technology (CBIIT) in an article titled, "A Tail-Wagging Good Time-Working on the Integrated Canine Data Commons". To read the full article, copy this link into your browser window: https://datascience.cancer.gov/news-events/blog/tail-wagging-good-time-working-integrated-canine-data-commons 
-    blurb: Meet the ICDC team
-    label: Meet the ICDC team
-  - paragraph: >-
-      Submit a photo of your dog to be featured in the ICDC image gallery and join the ICDC pack in the battle against cancer. Send photos to ICDCHelpDesk@mail.nih.gov
-    blurb: Join the ICDC pack
-    label: Join the ICDC pack
-  - paragraph: >-
-      Data made available through the ICDC is for research purposes only. ICDC data submission and data use is governed by the Creative
-      Commons licensing terms, https://creativecommons.org/licenses/by/4.0/
-    blurb: ICDC Data Use Guidelines
-    label: ICDC leverages CC-BY 4.0 licensing terms
