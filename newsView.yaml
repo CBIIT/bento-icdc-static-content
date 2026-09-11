@@ -1,44 +1,88 @@
-tile1:
-  heading: ICDC Announcements
-tile2:
-  heading: Social Media Featured Content
-tile3:
-  heading: ICDC Pack
-tile4:
-  subHeading1: Featured Video
-  subHeading2: Other Videos
-youtube:
-  main:
-    vid: https://www.youtube.com/watch?v=bIWaMKZ9pl4
-    label: Unleashing Comparative Oncology
-    description: ""
-  others:
-    - vid: https://www.youtube.com/watch?v=WeCTiGkVNlk
-      label: Urinary Bladder Cancer in Dogs
-    - vid: https://www.youtube.com/watch?v=tk1nEX2gnqk
-      label: The Cancer Research Data Commons (CRDC)
-    - vid: https://www.youtube.com/watch?v=8wWeaGKT3Ak
-      label: 60 Minutes Spotlight on Comparative Oncology
-images:
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Bosco.jpg?raw=true
-    label: Bosco
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/DogAtVet.jpg?raw=true
-    label: Dog at vet
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Emmie.JPG?raw=true
-    label: Emmie
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Freddie.jpg?raw=true
-    label: Freddie
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Gertie.jpeg?raw=true
-    label: Gertie
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Jelly-Bean.jpg?raw=true
-    label: JellyBean
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Krish.jpg?raw=true
-    label: Krish
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Louie-Teddy.JPG?raw=true
-    label: Louie and Teddy
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
-    label: Samantha
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Clover.jpg?raw=true
-    label: Clover
-  - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Mango.jpg?raw=true
-    label: Mango
+pageTitle: ICDC News
+sections:
+  - type: dataModelReleases
+    title: Data Model Releases
+
+  - type: softwareReleases
+    title: Software Releases
+
+  - type: publications
+    title: Publications
+
+  - type: announcements
+    title: ICDC Announcements
+    cardTitle: Additional Announcements
+    enabled: false
+    items:
+      - id: replace-with-current-announcement
+        label: ICDC announcement
+        blurb: Keep up with the latest ICDC news and resources.
+        paragraph: >-
+          Replace this sample with the current ICDC announcement. Learn more
+          about the [Integrated Canine Data Commons](https://cancer.gov/ccg/research/structural-genomics/icdc)
+          in the announcement content.
+        link:
+          label: Learn more
+          url: https://cancer.gov/ccg/research/structural-genomics/icdc
+
+  - type: social
+    title: Social Media Featured Content
+    posts:
+      - '1878806460668285313'
+      - '1837431704799105198'
+      - '1593639418149093376'
+
+  - type: images
+    title: ICDC Pack
+    items:
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Bosco.jpg?raw=true
+        label: Bosco
+        alt: Bosco, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/DogAtVet.jpg?raw=true
+        label: Dog at vet
+        alt: A dog at a veterinary visit
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Emmie.JPG?raw=true
+        label: Emmie
+        alt: Emmie, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Freddie.jpg?raw=true
+        label: Freddie
+        alt: Freddie, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Gertie.jpeg?raw=true
+        label: Gertie
+        alt: Gertie, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Jelly-Bean.jpg?raw=true
+        label: JellyBean
+        alt: JellyBean, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Krish.jpg?raw=true
+        label: Krish
+        alt: Krish, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Louie-Teddy.JPG?raw=true
+        label: Louie and Teddy
+        alt: Louie and Teddy, dogs in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Samantha.jpg?raw=true
+        label: Samantha
+        alt: Samantha, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Clover.jpg?raw=true
+        label: Clover
+        alt: Clover, a dog in the ICDC Pack
+      - img: https://github.com/CBIIT/bento-icdc-static-content/blob/develop/images/landing/Mango.jpg?raw=true
+        label: Mango
+        alt: Mango, a dog in the ICDC Pack
+
+  - type: videos
+    featuredHeading: Featured Video
+    otherHeading: Other Videos
+    featured:
+      id: unleashing-comparative-oncology
+      vid: https://www.youtube.com/watch?v=bIWaMKZ9pl4
+      label: Unleashing Comparative Oncology
+    others:
+      - id: urinary-bladder-cancer-in-dogs
+        vid: https://www.youtube.com/watch?v=WeCTiGkVNlk
+        label: Urinary Bladder Cancer in Dogs
+      - id: cancer-research-data-commons
+        vid: https://www.youtube.com/watch?v=tk1nEX2gnqk
+        label: The Cancer Research Data Commons (CRDC)
+      - id: 60-minutes-comparative-oncology
+        vid: https://www.youtube.com/watch?v=8wWeaGKT3Ak
+        label: 60 Minutes Spotlight on Comparative Oncology
